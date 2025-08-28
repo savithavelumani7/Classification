@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Crowd Count Demo - Page 2</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f5f6fa; }
+    header { background: #2c3e50; color: white; padding: 15px 30px; font-size: 20px; }
+    .container { max-width: 900px; margin: 40px auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+    h1 { color: #2c3e50; margin-bottom: 20px; }
+    label { display: block; margin: 15px 0 5px; font-weight: bold; }
+    select { padding: 8px; border-radius: 6px; border: 1px solid #ccc; }
+    video { display: block; margin: 20px 0; width: 100%; max-width: 700px; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); }
+    canvas { margin-top: 30px; }
+    button { background: #7f8c8d; color: white; border: none; padding: 10px 18px; font-size: 15px; border-radius: 8px; cursor: pointer; }
+    button:hover { background: #636e72; }
+  </style>
+</head>
+<body>
+  <header>Crowd Count Demo Dashboard</header>
+  <div class="container">
+    <h1>Step 2: Monitor Video & Counts</h1>
+    <button onclick="goBack()">⬅ Back</button>
+
+    <label for="camera">Select Camera:</label>
+    <select id="camera"></select>
+
+    <label for="zone">Select Zone:</label>
+    <select id="zone"></select>
+
+    <video id="video" controls>
+      <source src="demo.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+
+    <canvas id="crowdChart" height="300"></canvas>
+  </div>
+
+  <script>
+    const cameraSelect = document.getElementById('camera');
+    const zoneSelect = document.getElementById('zone');
+
+    const savedCamera = localStorage.getItem('camera') || 'Camera 1';
+    const savedZones = JSON.parse(localStorage.getItem('zones')) || ['Zone A'];
+
+    const cameras = ['Camera 1', 'Camera 2', 'Camera 3'];
+    const zones = {
+      'Camera 1': ['Zone A', 'Zone B'],
+      'Camera 2': ['Zone C', 'Zone D'],
+      'Camera 3': ['Zone F']
+    };
+
+    cameras.forEach(cam => {
+      const option = document.createElement('option');
+      option.value = cam; option.text = cam;
+      cameraSelect.add(option);
+    });
+    cameraSelect.value = savedCamera;
+
+    function populateZones(camera) {
+      zoneSelect.innerHTML = '';
+      zones[camera].forEach(z => {
+        const option = document.createElement('option');
+        option.value = z; option.text = z;
+        zoneSelect.add(option);
+      });
+      zoneSelect.value = savedZones[0];
+    }
+    populateZones(savedCamera);
+
+    cameraSelect.addEventListener('change', () => populateZones(cameraSelect.value));
+
+    function goBack() { window.location.href = 'index.html'; }
+
+    // Crowd count chart
+    const ctx = document.getElementById('crowdChart').getContext('2d');
+    const times = Array.from({length: 20}, (_, i) => `T${i+1}`);
+    const counts = Array.from({length: 20}, () => Math.floor(Math.random() * 50));
+
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: times,
+        datasets: [{
+          label: `Crowd Count - ${savedCamera} - ${savedZones[0]}`,
+          data: counts,
+          borderColor: '#3498db',
+          backgroundColor: 'rgba(52, 152, 219, 0.2)',
+          fill: true,
+          tension: 0.4,
+          borderWidth: 2
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: { legend: { display: true } },
+        scales: { y: { beginAtZero: true } }
+      }
+    });
+  </script>
+</body>
+</html>

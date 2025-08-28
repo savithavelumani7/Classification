@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Crowd Count Demo - Page 1</title>
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #f5f6fa; }
+    header { background: #2c3e50; color: white; padding: 15px 30px; font-size: 20px; }
+    .container { max-width: 700px; margin: 50px auto; background: white; padding: 30px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+    h1 { color: #2c3e50; margin-bottom: 20px; }
+    label { display: block; margin: 15px 0 5px; font-weight: bold; }
+    select, input[type="checkbox"] { margin-top: 8px; }
+    .zones { margin: 10px 0 20px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background: #fafafa; }
+    button { background: #3498db; color: white; border: none; padding: 12px 24px; font-size: 16px; border-radius: 8px; cursor: pointer; }
+    button:hover { background: #2980b9; }
+  </style>
+</head>
+<body>
+  <header>Crowd Count Demo Dashboard</header>
+  <div class="container">
+    <h1>Step 1: Configure Camera & Zones</h1>
+
+    <label for="camera">Select Camera:</label>
+    <select id="camera">
+      <option value="Camera 1">Camera 1</option>
+      <option value="Camera 2">Camera 2</option>
+      <option value="Camera 3">Camera 3</option>
+    </select>
+
+    <label>Add Zones:</label>
+    <div class="zones" id="zones">
+      <input type="checkbox" id="zoneA" value="Zone A"><label for="zoneA"> Zone A</label><br>
+      <input type="checkbox" id="zoneB" value="Zone B"><label for="zoneB"> Zone B</label><br>
+      <input type="checkbox" id="zoneC" value="Zone C"><label for="zoneC"> Zone C</label><br>
+    </div>
+
+    <button onclick="goToPage2()">Go to Video & Plot ➜</button>
+  </div>
+
+  <script>
+    function goToPage2() {
+      const camera = document.getElementById('camera').value;
+      const selectedZones = [];
+      document.querySelectorAll('#zones input:checked').forEach(cb => selectedZones.push(cb.value));
+      localStorage.setItem('camera', camera);
+      localStorage.setItem('zones', JSON.stringify(selectedZones));
+      window.location.href = 'page2.html';
+    }
+  </script>
+</body>
+</html>
