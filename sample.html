@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Job Role Prediction Dashboard</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>
+body { font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin:0; display:flex; height:100vh; background:#ecf0f1;}
+.sidebar { width:240px; background:#2c3e50; color:#fff; display:flex; flex-direction:column; padding-top:20px;}
+.sidebar button { background:none; border:none; color:#fff; padding:15px 25px; text-align:left; cursor:pointer; width:100%; font-size:16px; margin-bottom:5px; transition:0.3s;}
+.sidebar button:hover { background:#34495e; }
+.content { flex:1; padding:30px; overflow-y:auto; }
+h2 { margin-top:0; color:#2c3e50; }
+table { border-collapse: collapse; width:100%; margin-top:20px; background:#fff; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+th, td { border:1px solid #ddd; padding:10px; text-align:center; font-size:14px; }
+th { background:#3498db; color:#fff; font-weight:500; }
+input[type="text"], input[type="number"] { padding:8px; width:100%; margin-bottom:12px; border:1px solid #ccc; border-radius:4px;}
+button.save-btn, button.add-btn { padding:10px 20px; border:none; cursor:pointer; border-radius:4px; color:#fff; font-weight:500; transition:0.3s; }
+button.save-btn { background-color:#3498db; }
+button.add-btn { background-color:#2ecc71; }
+button.save-btn:hover, button.add-btn:hover { opacity:0.9; }
+.card { background:#fff; padding:25px; border-radius:12px; margin-bottom:25px; box-shadow:0 4px 12px rgba(0,0,0,0.1); }
+#notification { color:green; margin-top:10px; font-weight:500; }
+.charts { display:flex; gap:40px; flex-wrap:wrap; margin-top:30px; }
+.chart-box { background:#fff; padding:20px; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.1); flex:1; min-width:300px; }
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <button onclick="showSection('profile')">Profile Info</button>
+  <button onclick="showSection('history')">Prediction History</button>
+  <button onclick="showSection('newPrediction')">Add New Prediction</button>
+</div>
+
+<div class="content">
+  <!-- Profile Section -->
+  <div id="profile" class="section card">
+    <h2>Profile Info</h2>
+    <label>Username:</label><input type="text" id="username" value="johndoe"><br>
+    <label>Email:</label><input type="text" id="email" value="john@example.com"><br>
+    <label>CGPA:</label><input type="number" id="cgpa" value="8.5" step="0.1"><br>
+    <label>Degree:</label><input type="text" id="degree" value="B.Tech"><br>
+    <label>Major:</label><input type="text" id="major" value="CS"><br>
+    <label>Skills (comma separated):</label><input type="text" id="skills" value="Python, ML, SQL"><br>
+    <button class="save-btn" onclick="saveProfile()">Save Profile</button>
+    <p id="notification"></p>
+  </div>
+
+  <!-- Prediction History Section -->
+  <div id="history" class="section card" style="display:none;">
+    <h2>Prediction History</h2>
+    <table id="historyTable">
+      <thead>
+        <tr><th>CGPA</th><th>Degree</th><th>Major</th><th>Skills</th><th>Predicted Role</th><th>Date</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <div class="charts">
+      <div class="chart-box">
+        <h3>Predicted Roles Count</h3>
+        <canvas id="roleChart"></canvas>
+      </div>
+      <div class="chart-box">
+        <h3>Skills Distribution</h3>
+        <canvas id="skillChart"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <!-- Add New Prediction Section -->
+  <div id="newPrediction" class="section card" style="display:none;">
+    <h2>Add New Prediction</h2>
+    <label>CGPA:</label><input type="number" id="newCgpa" step="0.1"><br>
+    <label>Degree:</label><input type="text" id="newDegree"><br>
+    <label>Major:</label><input type="text" id="newMajor"><br>
+    <label>Skills (comma separated):</label><input type="text" id="newSkills"><br>
+    
+    <button class="add-btn" onclick="addPrediction()">Predict</button>
+    
+    <!-- This will show the predicted role -->
+    <p id="predictionResult" style="margin-top:10px; font-weight:bold; color:#2c3e50;"></p>
+</div>
+
+</div>
+
+<script>
+let predictions = [
+  {cgpa: 8.5, degree: 'B.Tech', major: 'CS', skills: 'Python, ML', role: 'Data Scientist', date: '2025-08-28'},
+  {cgpa: 7.8, degree: 'BBA', major: 'Finance', skills: 'Excel, Accounting', role: 'Business Analyst', date: '2025-08-27'},
+  {cgpa: 9.0, degree: 'B.Tech', major: 'CS', skills: 'Python, AI', role: 'ML Engineer', date: '2025-08-26'},
+  {cgpa: 8.2, degree: 'B.Sc', major: 'IT', skills: 'SQL, Python', role: 'Data Analyst', date: '2025-08-25'}
+];
+
+function populateTable() {
+  const tableBody = document.querySelector('#historyTable tbody');
+  tableBody.innerHTML = '';
+  predictions.forEach(p => {
+    const row = document.createElement('tr');
+    row.innerHTML = `<td>${p.cgpa}</td><td>${p.degree}</td><td>${p.major}</td><td>${p.skills}</td><td>${p.role}</td><td>${p.date}</td>`;
+    tableBody.appendChild(row);
+  });
+}
+
+// Bar Chart: Role Counts with Palette
+const ctxRole = document.getElementById('roleChart').getContext('2d');
+const roleChart = new Chart(ctxRole, {
+  type: 'bar',
+  data: { labels: [], datasets:[{label:'Predicted Roles', data:[], backgroundColor:[], borderColor:[], borderWidth:1}] },
+  options: { responsive:true, scales:{ y:{ beginAtZero:true } } }
+});
+
+// Pie Chart: Skills Distribution
+const ctxSkill = document.getElementById('skillChart').getContext('2d');
+const skillChart = new Chart(ctxSkill, {
+  type:'pie',
+  data:{ labels:[], datasets:[{label:'Skills', data:[], backgroundColor:['#1abc9c','#f1c40f','#e67e22','#9b59b6','#e74c3c','#3498db','#8e44ad','#16a085'] }]},
+  options:{ responsive:true }
+});
+
+// Update Charts
+function updateCharts() {
+  const roleCounts = {};
+  predictions.forEach(p => { roleCounts[p.role] = (roleCounts[p.role]||0)+1; });
+  const roleColors = ['#3498db','#e74c3c','#f1c40f','#1abc9c','#9b59b6','#2ecc71','#e67e22','#16a085'];
+  roleChart.data.labels = Object.keys(roleCounts);
+  roleChart.data.datasets[0].data = Object.values(roleCounts);
+  roleChart.data.datasets[0].backgroundColor = roleColors.slice(0,Object.keys(roleCounts).length);
+  roleChart.data.datasets[0].borderColor = roleColors.slice(0,Object.keys(roleCounts).length);
+  roleChart.update();
+
+  const skillsAll = predictions.flatMap(p => p.skills.split(',').map(s=>s.trim()));
+  const skillCounts = {};
+  skillsAll.forEach(s => { skillCounts[s] = (skillCounts[s]||0)+1; });
+  skillChart.data.labels = Object.keys(skillCounts);
+  skillChart.data.datasets[0].data = Object.values(skillCounts);
+  skillChart.update();
+}
+
+// Section Navigation
+function showSection(id) {
+  document.querySelectorAll('.section').forEach(s => s.style.display='none');
+  document.getElementById(id).style.display='block';
+  document.getElementById('notification').innerText='';
+}
+
+// Save Profile
+function saveProfile() {
+  const profile = {
+    username: document.getElementById('username').value,
+    email: document.getElementById('email').value,
+    cgpa: document.getElementById('cgpa').value,
+    degree: document.getElementById('degree').value,
+    major: document.getElementById('major').value,
+    skills: document.getElementById('skills').value
+  };
+  document.getElementById('notification').innerText = 'Profile Saved!';
+  console.log('Saved Profile:', profile);
+}
+
+// Add New Prediction
+function addPrediction() {
+  const newPred = {
+    cgpa: document.getElementById('newCgpa').value,
+    degree: document.getElementById('newDegree').value,
+    major: document.getElementById('newMajor').value,
+    skills: document.getElementById('newSkills').value,
+    role: "DataBase Administrator", // Mock prediction
+    date: new Date().toISOString().split('T')[0]
+  };
+
+  // Validate fields
+  if(!newPred.cgpa || !newPred.degree || !newPred.major || !newPred.skills){
+    alert('Please fill all fields');
+    return;
+  }
+
+  // Add prediction to table & charts
+  predictions.push(newPred);
+  populateTable();
+  updateCharts();
+
+  // Display predicted role
+  document.getElementById('predictionResult').innerText = `Predicted Role: ${newPred.role}`;
+
+  // Clear inputs (optional)
+  document.getElementById('newCgpa').value='';
+  document.getElementById('newDegree').value='';
+  document.getElementById('newMajor').value='';
+  document.getElementById('newSkills').value='';
+}
+
+
+// Initialize
+populateTable();
+updateCharts();
+</script>
+
+</body>
+</html>
