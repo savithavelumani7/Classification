@@ -1,0 +1,151 @@
+Degree,Major,Specialization,CGPA,Skills,Certifications,Years_of_Experience,Preferred_Industry,Target
+MBA,Business Administration,Employee Welfare,9.47,"Tableau, data analysis, project management, presentation, communication, HR analytics","Data for HR, Advanced Excel",1,IT,HR Executive
+BCom,Management,Organizational Psychology,8.92,"SAP HR, data analysis, Python, presentation, Power BI, SQL","Excel Masterclass, Talent Sourcing, Performance Management",5,Healthcare,HR Executive
+MBA,Psychology,Recruitment and Training,9.29,"SQL, Python, SAP HR, HR analytics, Tableau","Performance Management, Advanced Excel, HR Analytics Pro",5,FMCG,HR Executive
+MHRM,Psychology,Employee Welfare,7.97,"MS Office, presentation, leadership, negotiation, Tableau","Corporate Communication, HR Analytics Pro, Talent Sourcing",5,Tech Services,HR Executive
+MA,Human Resource Management,HR Analytics,8.26,"team management, negotiation, time management, communication, recruitment","OD Certificate, Performance Management, HR Analytics Pro",0,Retail,HR Executive
+BBA,Management,Organizational Development,8.47,"time management, leadership, negotiation, employee engagement, Tableau, HR analytics","Excel Masterclass, Advanced Excel, Recruitment Essentials",5,Consulting,HR Executive
+MA,Management,Industrial Relations,7.58,"Power BI, Python, presentation, recruitment, Excel","Recruitment Essentials, Advanced Excel, Data for HR",1,Manufacturing,HR Executive
+MBA,Management,Human Capital Management,7.58,"recruitment, leadership, employee engagement, Excel, Power BI","C&B Strategy, Advanced Excel, Data for HR",5,Retail,HR Executive
+MA,Psychology,Talent Acquisition,8.12,"Python, Tableau, SAP HR, negotiation, SQL","Labor Law Basics, Performance Management, Payroll Management",0,Manufacturing,HR Executive
+BCom,Management,HR Analytics,8.47,"Excel, recruitment, project management, presentation, employee engagement, leadership","OD Certificate, Advanced Excel, HRBP",3,Tech Services,HR Executive
+MBA,Psychology,Organizational Psychology,9.38,"time management, communication, Python, SQL","Performance Management, HRBP",1,Banking,HR Executive
+MA,Commerce,Human Capital Management,9.34,"SAP HR, MS Office, negotiation, time management, team management, HR analytics","Corporate Trainer Program, Corporate Communication, C&B Strategy",1,Banking,HR Executive
+MA,Management,Learning & Development,7.7,"Tableau, time management, leadership, negotiation, project management","Talent Sourcing, Labor Law Basics",2,Tech Services,HR Executive
+BCom,Business Administration,Compensation and Benefits,8.07,"data analysis, MS Office, recruitment, employee engagement, negotiation","HR Analytics Pro, Corporate Trainer Program, Recruitment Essentials",5,Education,HR Executive
+BBA,Commerce,Industrial Relations,7.01,"communication, leadership, Excel, recruitment, MS Office","Advanced Excel, C&B Strategy, L&D Certificate",0,Retail,HR Executive
+BBA,Commerce,Employee Welfare,8.89,"data analysis, MS Office, SAP HR, negotiation, recruitment","C&B Strategy, HR Analytics Pro",2,Education,HR Executive
+BCom,Psychology,Compensation and Benefits,8.94,"recruitment, Tableau, leadership, time management","C&B Strategy, HRBP",3,Tech Services,HR Executive
+MBA,Human Resource Management,Recruitment and Training,7.04,"presentation, project management, leadership, Power BI, team management, MS Office","OD Certificate, Talent Sourcing",2,FMCG,HR Executive
+MBA,Business Administration,Recruitment and Training,7.29,"negotiation, Tableau, MS Office, recruitment, SAP HR, project management","Labor Law Basics, Talent Sourcing",1,Banking,HR Executive
+BCom,Business Administration,Organizational Psychology,9.63,"leadership, Power BI, Tableau, Excel, SAP HR, recruitment","Labor Law Basics, OD Certificate, Corporate Communication",4,Healthcare,HR Executive
+BCom,Management,HR Analytics,6.96,"employee engagement, project management, time management, recruitment","OD Certificate, L&D Certificate",2,FMCG,HR Executive
+BBA,Management,Employee Welfare,9.27,"SAP HR, Power BI, Tableau, communication, SQL, team management","Payroll Management, HRBP",0,Consulting,HR Executive
+MA,Commerce,Organizational Psychology,7.35,"Excel, project management, communication, leadership, recruitment, Tableau","Corporate Communication, Performance Management",1,Banking,HR Executive
+MBA,Management,Compensation and Benefits,9.64,"Python, employee engagement, project management, SAP HR","Performance Management, Corporate Communication",2,Manufacturing,HR Executive
+MBA,Commerce,Recruitment and Training,8.78,"SAP HR, presentation, Power BI, project management, Python, Excel","L&D Certificate, Payroll Management",2,FMCG,HR Executive
+BCom,Human Resource Management,Compensation and Benefits,7.5,"SQL, time management, leadership, project management, presentation","HRBP, Recruitment Essentials, Labor Law Basics",3,IT,HR Executive
+BBA,Management,Talent Acquisition,6.75,"Python, time management, Power BI, leadership","Corporate Trainer Program, Payroll Management",5,Manufacturing,HR Executive
+BBA,Human Resource Management,Learning & Development,8.18,"SQL, Power BI, team management, recruitment","Labor Law Basics, L&D Certificate",2,Healthcare,HR Executive
+BCom,Commerce,Talent Acquisition,8.69,"recruitment, SAP HR, team management, Excel","OD Certificate, L&D Certificate, C&B Strategy",5,IT,HR Executive
+BCom,Business Administration,Human Capital Management,7.91,"SQL, presentation, communication, Power BI, team management, negotiation","HRBP, Excel Masterclass, L&D Certificate",3,Retail,HR Executive
+BCom,Psychology,HR Analytics,6.86,"negotiation, Excel, Power BI, Tableau, SQL","Performance Management, Labor Law Basics",3,Healthcare,HR Executive
+MBA,Psychology,Organizational Psychology,8.47,"communication, team management, SQL, employee engagement, MS Office","Excel Masterclass, HRBP, Data for HR",0,Retail,HR Executive
+MA,Management,Organizational Psychology,8.9,"negotiation, MS Office, leadership, data analysis","Payroll Management, Excel Masterclass",2,Manufacturing,HR Executive
+BCom,Management,Recruitment and Training,7.79,"Tableau, time management, presentation, negotiation, Power BI, SQL","Corporate Communication, Talent Sourcing, Labor Law Basics",1,FMCG,HR Executive
+MBA,Human Resource Management,Recruitment and Training,8.53,"leadership, Excel, employee engagement, SAP HR, HR analytics, recruitment","Excel Masterclass, Labor Law Basics, Advanced Excel",5,FMCG,HR Executive
+BCom,Human Resource Management,Employee Welfare,7.78,"communication, Excel, employee engagement, Python","OD Certificate, Excel Masterclass",0,Retail,HR Executive
+BBA,Psychology,HR Analytics,9.07,"communication, HR analytics, SAP HR, presentation","Data for HR, L&D Certificate, Talent Sourcing",0,IT,HR Executive
+MA,Human Resource Management,Compensation and Benefits,7,"team management, project management, MS Office, Power BI","Advanced Excel, Excel Masterclass, Recruitment Essentials",2,IT,HR Executive
+MHRM,Human Resource Management,HR Analytics,8.81,"presentation, recruitment, time management, Python","Payroll Management, Advanced Excel, OD Certificate",2,Education,HR Executive
+MBA,Human Resource Management,Human Capital Management,8.99,"project management, Python, team management, Excel","OD Certificate, HR Analytics Pro",5,IT,HR Executive
+MBA,Management,HR Analytics,9.44,"Python, Excel, SAP HR, MS Office, data analysis","Corporate Trainer Program, Corporate Communication, Recruitment Essentials",2,Banking,HR Executive
+BBA,Management,Organizational Psychology,7.52,"team management, Power BI, data analysis, time management, project management, HR analytics","Corporate Trainer Program, Recruitment Essentials",4,Consulting,HR Executive
+BCom,Psychology,Recruitment and Training,7.58,"Excel, leadership, recruitment, MS Office, team management","Talent Sourcing, Excel Masterclass, Payroll Management",5,Tech Services,HR Executive
+MBA,Human Resource Management,Industrial Relations,9.77,"Excel, Power BI, presentation, leadership, communication, SQL","Data for HR, Talent Sourcing",4,Banking,HR Executive
+BCom,Business Administration,Recruitment and Training,8.97,"Excel, data analysis, project management, employee engagement","C&B Strategy, HR Analytics Pro",2,Banking,HR Executive
+MBA,Psychology,Organizational Development,8.12,"time management, MS Office, communication, team management","Advanced Excel, Corporate Trainer Program, HR Analytics Pro",1,Manufacturing,HR Executive
+BCom,Business Administration,Industrial Relations,6.93,"employee engagement, team management, HR analytics, Excel, leadership, Power BI","Advanced Excel, HRBP, C&B Strategy",3,Education,HR Executive
+BCom,Psychology,Recruitment and Training,7.75,"time management, MS Office, communication, SQL","Payroll Management, Recruitment Essentials",5,Banking,HR Executive
+MA,Commerce,Recruitment and Training,8.14,"negotiation, Tableau, team management, data analysis, communication","Labor Law Basics, C&B Strategy, Data for HR",5,Education,HR Executive
+MHRM,Commerce,HR Analytics,6.81,"leadership, MS Office, HR analytics, recruitment, data analysis","L&D Certificate, Payroll Management, OD Certificate",4,Manufacturing,HR Executive
+MBA,Management,Learning & Development,7.42,"presentation, negotiation, Python, employee engagement, SQL","Data for HR, HRBP, Corporate Communication",3,Retail,HR Executive
+BBA,Psychology,Employee Welfare,7.02,"leadership, communication, Tableau, SQL, team management, Excel","Excel Masterclass, Labor Law Basics, Advanced Excel",0,Manufacturing,HR Executive
+BBA,Management,Compensation and Benefits,8.47,"SAP HR, team management, project management, presentation, MS Office, HR analytics","Advanced Excel, Performance Management, Data for HR",2,Tech Services,HR Executive
+MA,Commerce,Human Capital Management,7.68,"Power BI, presentation, data analysis, Tableau, leadership, Python","Corporate Trainer Program, C&B Strategy, Talent Sourcing",3,Consulting,HR Executive
+BBA,Business Administration,Employee Welfare,7.56,"leadership, presentation, recruitment, time management","Recruitment Essentials, Corporate Trainer Program",0,FMCG,HR Executive
+MA,Human Resource Management,Human Capital Management,9.05,"communication, HR analytics, project management, team management","Corporate Trainer Program, Labor Law Basics",5,Tech Services,HR Executive
+MA,Psychology,Industrial Relations,9.59,"communication, team management, HR analytics, Excel, Power BI, SAP HR","OD Certificate, Labor Law Basics, Performance Management",0,Education,HR Executive
+BCom,Commerce,Employee Welfare,6.83,"recruitment, SQL, Python, Tableau","Talent Sourcing, Data for HR",5,Tech Services,HR Executive
+MA,Business Administration,HR Analytics,7.99,"negotiation, SAP HR, SQL, project management","Data for HR, Recruitment Essentials",2,Manufacturing,HR Executive
+MA,Management,Industrial Relations,7.86,"Tableau, leadership, negotiation, Python, Excel","Advanced Excel, C&B Strategy",2,Banking,HR Executive
+MA,Management,Organizational Development,8.89,"Python, SAP HR, time management, employee engagement","Performance Management, Corporate Trainer Program, Recruitment Essentials",4,Healthcare,HR Executive
+BCom,Human Resource Management,Organizational Development,9.08,"Excel, SQL, SAP HR, time management","Data for HR, Performance Management",4,Retail,HR Executive
+BCom,Commerce,Organizational Development,8.37,"negotiation, Tableau, SQL, presentation, MS Office","Data for HR, Labor Law Basics",5,Manufacturing,HR Executive
+BBA,Business Administration,Organizational Development,8.69,"employee engagement, project management, recruitment, MS Office, leadership","Excel Masterclass, Recruitment Essentials",2,Tech Services,HR Executive
+BBA,Psychology,Organizational Development,7.46,"MS Office, Power BI, team management, data analysis","HRBP, HR Analytics Pro, Corporate Communication",0,Education,HR Executive
+BBA,Business Administration,Human Capital Management,6.8,"Tableau, Power BI, employee engagement, recruitment, team management","Advanced Excel, Corporate Trainer Program",1,Tech Services,HR Executive
+BCom,Psychology,Industrial Relations,7.46,"presentation, SQL, Power BI, negotiation, Python, project management","HR Analytics Pro, Payroll Management, HRBP",5,Retail,HR Executive
+BBA,Management,Organizational Development,6.79,"negotiation, time management, presentation, Power BI, data analysis, project management","Payroll Management, Excel Masterclass",0,IT,HR Executive
+BCom,Management,Recruitment and Training,7.07,"communication, recruitment, Python, time management, project management, leadership","HR Analytics Pro, Excel Masterclass",2,Healthcare,HR Executive
+BBA,Human Resource Management,Organizational Development,7.38,"Excel, HR analytics, SAP HR, Power BI, time management","Data for HR, Recruitment Essentials, Excel Masterclass",5,Retail,HR Executive
+MBA,Management,Industrial Relations,7.52,"Tableau, recruitment, team management, time management, employee engagement, Python","C&B Strategy, HR Analytics Pro",0,Tech Services,HR Executive
+MBA,Commerce,Employee Welfare,6.69,"presentation, employee engagement, Tableau, MS Office, data analysis, Python","L&D Certificate, Corporate Trainer Program",4,Consulting,HR Executive
+BBA,Business Administration,Compensation and Benefits,7.72,"SAP HR, negotiation, communication, employee engagement","Advanced Excel, L&D Certificate",1,Retail,HR Executive
+MBA,Management,Industrial Relations,6.87,"communication, negotiation, Excel, SAP HR, presentation","Labor Law Basics, HR Analytics Pro",0,Consulting,HR Executive
+MHRM,Commerce,Compensation and Benefits,9.04,"recruitment, Tableau, data analysis, presentation, project management","Talent Sourcing, Payroll Management, OD Certificate",1,Tech Services,HR Executive
+MHRM,Psychology,Human Capital Management,9.39,"Power BI, recruitment, SAP HR, time management, presentation","Advanced Excel, OD Certificate, Talent Sourcing",4,FMCG,HR Executive
+MBA,Management,Employee Welfare,9.51,"SAP HR, HR analytics, data analysis, Excel, leadership","Excel Masterclass, Recruitment Essentials, Payroll Management",0,Education,HR Executive
+BCom,Commerce,Learning & Development,8.33,"MS Office, Excel, presentation, time management, project management, team management","L&D Certificate, Excel Masterclass, OD Certificate",2,Consulting,HR Executive
+BBA,Human Resource Management,Talent Acquisition,7.03,"team management, project management, Power BI, HR analytics, leadership","Labor Law Basics, L&D Certificate, Excel Masterclass",4,Manufacturing,HR Executive
+BBA,Psychology,Human Capital Management,9.44,"time management, SAP HR, team management, MS Office, project management, Power BI","Excel Masterclass, HRBP",1,Education,HR Executive
+BCom,Business Administration,Industrial Relations,9.17,"time management, communication, data analysis, recruitment, Tableau","C&B Strategy, Corporate Communication, Recruitment Essentials",3,Banking,HR Executive
+BCom,Commerce,Organizational Psychology,8.41,"data analysis, negotiation, time management, SAP HR","OD Certificate, HRBP, Recruitment Essentials",1,Tech Services,HR Executive
+MHRM,Commerce,Industrial Relations,8.76,"MS Office, employee engagement, time management, Power BI","C&B Strategy, OD Certificate",2,IT,HR Executive
+BBA,Psychology,HR Analytics,7.67,"Power BI, team management, Excel, data analysis, communication, recruitment","Data for HR, Performance Management, HRBP",2,Banking,HR Executive
+MBA,Psychology,Human Capital Management,8.73,"Python, negotiation, communication, data analysis, SQL, HR analytics","Talent Sourcing, C&B Strategy",2,Banking,HR Executive
+MA,Psychology,Industrial Relations,8.24,"team management, MS Office, HR analytics, SAP HR, Tableau","Payroll Management, Corporate Trainer Program",4,Retail,HR Executive
+MBA,Psychology,Organizational Psychology,9.15,"Python, SAP HR, MS Office, leadership, team management, SQL","Payroll Management, Performance Management, HR Analytics Pro",2,Education,HR Executive
+BBA,Commerce,Learning & Development,6.65,"communication, team management, negotiation, Python","HRBP, HR Analytics Pro",1,FMCG,HR Executive
+BBA,Psychology,Human Capital Management,8.74,"Python, Tableau, data analysis, recruitment, time management, team management","L&D Certificate, Talent Sourcing, Labor Law Basics",4,Education,HR Executive
+BCom,Human Resource Management,Learning & Development,7.86,"team management, communication, HR analytics, SQL, leadership","C&B Strategy, Excel Masterclass, HR Analytics Pro",1,Banking,HR Executive
+MA,Management,Talent Acquisition,8.79,"communication, HR analytics, SQL, negotiation, project management","HR Analytics Pro, C&B Strategy, Labor Law Basics",1,Education,HR Executive
+MHRM,Human Resource Management,Industrial Relations,7.23,"data analysis, SQL, time management, recruitment","Corporate Communication, OD Certificate, Corporate Trainer Program",2,Consulting,HR Executive
+MHRM,Management,Talent Acquisition,7,"presentation, time management, recruitment, team management, Excel","Labor Law Basics, C&B Strategy",2,Consulting,HR Executive
+MBA,Business Administration,Employee Welfare,9.26,"presentation, team management, Tableau, SQL, data analysis","Excel Masterclass, C&B Strategy, Corporate Trainer Program",2,Manufacturing,HR Executive
+MBA,Management,Talent Acquisition,8.34,"MS Office, presentation, SQL, time management, SAP HR","Corporate Communication, Data for HR",3,Banking,HR Executive
+MBA,Human Resource Management,Organizational Development,7.33,"communication, MS Office, negotiation, team management, time management","Labor Law Basics, Corporate Trainer Program",4,Consulting,HR Executive
+MBA,Management,Learning & Development,7.8,"SAP HR, SQL, MS Office, leadership, presentation, Power BI","Corporate Trainer Program, HRBP",5,Retail,HR Executive
+MA,Psychology,HR Analytics,8.51,"communication, Power BI, Excel, Python","HR Analytics Pro, Corporate Communication",0,Tech Services,HR Executive
+MBA,Management,Industrial Relations,8.81,"recruitment, data analysis, HR analytics, employee engagement, time management, project management","Advanced Excel, L&D Certificate",2,FMCG,HR Executive
+BBA,Human Resource Management,Compensation and Benefits,9.06,"time management, recruitment, leadership, communication, HR analytics","Excel Masterclass, Labor Law Basics",1,Consulting,HR Executive
+MHRM,Management,Industrial Relations,8.46,"communication, leadership, SQL, team management","HRBP, Performance Management",0,IT,HR Executive
+MBA,Psychology,Human Capital Management,7.23,"presentation, team management, negotiation, MS Office, data analysis, communication","Labor Law Basics, HR Analytics Pro",3,Consulting,HR Executive
+MA,Human Resource Management,Talent Acquisition,8.06,"project management, Tableau, HR analytics, Python","Excel Masterclass, Performance Management",2,Manufacturing,HR Executive
+MA,Psychology,Organizational Psychology,8.67,"leadership, presentation, recruitment, HR analytics, Excel","HRBP, C&B Strategy, Corporate Trainer Program",1,Consulting,HR Executive
+BBA,Business Administration,Compensation and Benefits,7.18,"project management, employee engagement, SAP HR, Python","Payroll Management, Labor Law Basics",0,Tech Services,HR Executive
+BCom,Psychology,Human Capital Management,7.15,"communication, employee engagement, data analysis, SQL, Power BI","Advanced Excel, HRBP, Corporate Trainer Program",3,Tech Services,HR Executive
+MHRM,Psychology,Learning & Development,8.78,"negotiation, HR analytics, team management, SAP HR, data analysis, SQL","HR Analytics Pro, OD Certificate",4,Tech Services,HR Executive
+MBA,Commerce,Human Capital Management,9.53,"Excel, recruitment, presentation, leadership, team management","Corporate Communication, Excel Masterclass, Data for HR",3,Retail,HR Executive
+MHRM,Human Resource Management,Talent Acquisition,8.64,"recruitment, MS Office, negotiation, time management, SAP HR","Payroll Management, Recruitment Essentials, Corporate Communication",1,Education,HR Executive
+MHRM,Business Administration,Employee Welfare,7.84,"negotiation, time management, SQL, leadership, Python, MS Office","Labor Law Basics, Recruitment Essentials, Data for HR",0,FMCG,HR Executive
+BCom,Commerce,Recruitment and Training,7.65,"communication, leadership, team management, HR analytics","L&D Certificate, C&B Strategy",4,FMCG,HR Executive
+BCom,Human Resource Management,Organizational Development,6.98,"leadership, negotiation, Python, Tableau, SQL, project management","Excel Masterclass, Performance Management, Recruitment Essentials",0,IT,HR Executive
+MHRM,Commerce,HR Analytics,8.49,"negotiation, leadership, Power BI, presentation, data analysis, Tableau","Talent Sourcing, HRBP, OD Certificate",0,Consulting,HR Executive
+MA,Human Resource Management,Human Capital Management,9.67,"MS Office, negotiation, Tableau, project management, HR analytics","Corporate Communication, Advanced Excel",2,Banking,HR Executive
+MBA,Commerce,Talent Acquisition,7.17,"leadership, MS Office, negotiation, Python","Talent Sourcing, L&D Certificate",3,Education,HR Executive
+BBA,Commerce,Talent Acquisition,7.6,"MS Office, recruitment, team management, leadership","Excel Masterclass, C&B Strategy, Payroll Management",5,Manufacturing,HR Executive
+MHRM,Psychology,Organizational Development,7.53,"Excel, employee engagement, time management, SAP HR, HR analytics","HR Analytics Pro, L&D Certificate",0,FMCG,HR Executive
+BCom,Commerce,HR Analytics,8.25,"recruitment, data analysis, presentation, Tableau, project management, HR analytics","Data for HR, Labor Law Basics, Corporate Trainer Program",0,FMCG,HR Executive
+BBA,Human Resource Management,Recruitment and Training,7.19,"employee engagement, negotiation, SAP HR, presentation, Python","HRBP, Talent Sourcing, Performance Management",1,Retail,HR Executive
+BBA,Psychology,Recruitment and Training,8.01,"team management, HR analytics, presentation, time management, SAP HR","Recruitment Essentials, Corporate Trainer Program, HR Analytics Pro",1,Consulting,HR Executive
+MHRM,Business Administration,Human Capital Management,8.09,"data analysis, Tableau, HR analytics, time management, Power BI","HR Analytics Pro, Payroll Management, L&D Certificate",2,Retail,HR Executive
+BBA,Business Administration,Organizational Psychology,8.58,"SAP HR, recruitment, presentation, time management, Python, leadership","Talent Sourcing, OD Certificate, Corporate Trainer Program",4,Manufacturing,HR Executive
+MA,Business Administration,Organizational Development,7.08,"leadership, Excel, presentation, communication, SAP HR, time management","HRBP, L&D Certificate",0,Tech Services,HR Executive
+MA,Psychology,Talent Acquisition,9.78,"presentation, Excel, negotiation, project management, HR analytics","Data for HR, L&D Certificate, Talent Sourcing",3,Manufacturing,HR Executive
+MA,Human Resource Management,Employee Welfare,7.08,"Tableau, Excel, project management, negotiation","Recruitment Essentials, OD Certificate, Performance Management",1,IT,HR Executive
+MA,Commerce,Employee Welfare,6.94,"Tableau, time management, Power BI, SQL, Python","Recruitment Essentials, Data for HR, C&B Strategy",2,Banking,HR Executive
+MHRM,Business Administration,Talent Acquisition,6.77,"recruitment, SQL, leadership, employee engagement","Talent Sourcing, Performance Management, Corporate Trainer Program",4,Manufacturing,HR Executive
+MHRM,Psychology,Industrial Relations,6.5,"SQL, SAP HR, Excel, negotiation, leadership","Talent Sourcing, Data for HR",5,Manufacturing,HR Executive
+MA,Human Resource Management,Learning & Development,7.02,"time management, negotiation, recruitment, leadership","HRBP, Performance Management",3,Consulting,HR Executive
+BCom,Business Administration,Recruitment and Training,6.66,"SQL, communication, leadership, recruitment, employee engagement","Labor Law Basics, Recruitment Essentials, OD Certificate",1,FMCG,HR Executive
+BBA,Commerce,Compensation and Benefits,7.57,"Power BI, communication, Excel, Python, negotiation","C&B Strategy, Performance Management",3,FMCG,HR Executive
+BBA,Management,Industrial Relations,9.45,"data analysis, presentation, employee engagement, SAP HR, SQL, Excel","Payroll Management, Talent Sourcing",3,Tech Services,HR Executive
+MHRM,Business Administration,Employee Welfare,7.3,"Python, leadership, communication, SAP HR, recruitment, HR analytics","Data for HR, Advanced Excel, Talent Sourcing",0,Banking,HR Executive
+MHRM,Commerce,Organizational Development,9.02,"leadership, communication, Excel, Tableau","Corporate Trainer Program, HR Analytics Pro",3,Banking,HR Executive
+MA,Management,Human Capital Management,8.83,"SQL, team management, Excel, Power BI","Corporate Trainer Program, Recruitment Essentials",3,Banking,HR Executive
+BBA,Psychology,Learning & Development,6.98,"recruitment, SAP HR, leadership, HR analytics, data analysis, project management","Labor Law Basics, L&D Certificate",2,Banking,HR Executive
+MA,Psychology,Talent Acquisition,6.87,"time management, Python, project management, communication, data analysis","Recruitment Essentials, Talent Sourcing",2,Tech Services,HR Executive
+MBA,Business Administration,Recruitment and Training,8.99,"presentation, Excel, SQL, communication, data analysis, Power BI","Recruitment Essentials, Performance Management, HRBP",3,Education,HR Executive
+BBA,Management,HR Analytics,9.68,"time management, Power BI, MS Office, SQL","Performance Management, HR Analytics Pro, Excel Masterclass",4,Manufacturing,HR Executive
+MA,Commerce,Human Capital Management,9.48,"SAP HR, Python, leadership, MS Office, HR analytics, recruitment","Labor Law Basics, C&B Strategy",4,Tech Services,HR Executive
+MA,Human Resource Management,Human Capital Management,8.65,"time management, Excel, Python, project management, MS Office","Excel Masterclass, C&B Strategy",4,Education,HR Executive
+MHRM,Human Resource Management,HR Analytics,6.64,"negotiation, leadership, MS Office, communication","Performance Management, Labor Law Basics",4,Manufacturing,HR Executive
+MA,Management,Industrial Relations,9.03,"employee engagement, data analysis, SAP HR, communication","Data for HR, Talent Sourcing, HRBP",5,IT,HR Executive
+MBA,Human Resource Management,Learning & Development,7.94,"SQL, negotiation, SAP HR, project management, recruitment, Tableau","Data for HR, HRBP",4,Education,HR Executive
+MA,Management,HR Analytics,9.56,"leadership, Excel, Power BI, Tableau, project management","HRBP, Payroll Management",3,Education,HR Executive
+MBA,Psychology,Talent Acquisition,9.22,"HR analytics, team management, communication, SAP HR, Excel","C&B Strategy, Performance Management, Corporate Communication",3,IT,HR Executive
+BCom,Psychology,Organizational Development,8.74,"negotiation, team management, Excel, recruitment","HR Analytics Pro, Talent Sourcing, Labor Law Basics",0,FMCG,HR Executive
+BCom,Human Resource Management,Industrial Relations,9.11,"MS Office, project management, leadership, Power BI, Python, negotiation","HR Analytics Pro, Excel Masterclass, Corporate Communication",2,Healthcare,HR Executive
+BBA,Human Resource Management,Recruitment and Training,9.38,"presentation, communication, project management, SQL","Advanced Excel, C&B Strategy",4,IT,HR Executive
+BCom,Management,Human Capital Management,7.45,"recruitment, employee engagement, SAP HR, project management","Recruitment Essentials, C&B Strategy, OD Certificate",5,Education,HR Executive

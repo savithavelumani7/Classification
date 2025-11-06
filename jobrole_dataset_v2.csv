@@ -1,0 +1,301 @@
+Degree,Major,Specialization,CGPA,Skills,Certifications,Years of Experience,Preferred Industry,Internships,Job Role
+M.Tech,Information Technology,Machine Learning,9.78,"Power BI, Tableau, Excel",Oracle Cloud Infrastructure,5,Retail,No,Data Analyst
+B.Tech,Data Science,Machine Learning,6.48,"AWS, Terraform, DevOps Tools",AWS Certified Solutions Architect,7,Education,Yes,Data Analyst
+MCA,Electrical Engineering,Data Analytics,7.31,"AWS, Terraform, DevOps Tools",Google Data Analytics,10,IT,Yes,Data Analyst
+M.Sc,Information Technology,Cloud Computing,8.42,"Big Data, Hadoop, Spark",Google Cloud Engineer,2,Healthcare,No,Data Analyst
+BCA,Data Science,Cybersecurity,8.8,"R, Statistics, Data Visualization",AWS Cloud Practitioner,9,Finance,No,Data Analyst
+M.Tech,Electrical Engineering,Machine Learning,8.18,"Azure, Docker, Kubernetes",Microsoft Azure Fundamentals,5,IT,No,Data Analyst
+M.Tech,Electronics,Cybersecurity,6.95,"R, Statistics, Data Visualization",AWS Certified Solutions Architect,4,Education,No,Cloud Engineer
+M.Tech,Data Science,Cloud Computing,6.55,"AWS, Terraform, DevOps Tools",Coursera Data Analyst Certificate,2,Retail,Yes,Cloud Engineer
+B.Sc,Computer Science,Networking,9.79,"AWS, Terraform, DevOps Tools",Microsoft Azure Fundamentals,8,Retail,Yes,Data Analyst
+BCA,Computer Science,Cloud Computing,6.2,"AWS, Terraform, DevOps Tools",Google Cloud Engineer,8,Retail,No,Data Analyst
+BCA,Computer Science,Data Analytics,8.71,"AWS, Terraform, DevOps Tools",Google Data Analytics,2,Retail,No,Cloud Engineer
+MCA,Computer Science,Machine Learning,7.48,"AWS, Terraform, DevOps Tools",Oracle Cloud Infrastructure,4,Manufacturing,No,Data Analyst
+M.Sc,Data Science,Machine Learning,6.96,"Big Data, Hadoop, Spark",IBM Data Science,9,Finance,No,Cloud Engineer
+B.Sc,Electronics,Cloud Computing,8.23,"Cloud Security, Virtualization",LinkedIn Learning Cloud Course,9,Healthcare,No,Cloud Engineer
+M.Tech,Data Science,Networking,8.47,"Python, Pandas, Numpy",LinkedIn Learning Cloud Course,10,Education,No,Data Analyst
+B.Tech,Electronics,Machine Learning,6.22,"R, Statistics, Data Visualization",LinkedIn Learning Cloud Course,2,IT,No,Data Analyst
+B.Tech,Information Technology,Cloud Computing,7.39,"Python, SQL, Excel",Microsoft Azure Fundamentals,4,Manufacturing,Yes,Data Analyst
+MCA,Data Science,Cybersecurity,6.64,"Power BI, Tableau, Excel",Google Data Analytics,3,Manufacturing,Yes,Cloud Engineer
+M.Tech,Information Technology,Networking,7.23,"Python, Pandas, Numpy",Coursera Data Analyst Certificate,9,Retail,No,Cloud Engineer
+M.Sc,Data Science,Cloud Computing,7.82,"R, Statistics, Data Visualization",Google Data Analytics,8,Healthcare,Yes,Cloud Engineer
+B.Sc,Electronics,Data Analytics,8.37,"Power BI, Tableau, Excel",Coursera Data Analyst Certificate,5,Manufacturing,Yes,Data Analyst
+B.Sc,Electrical Engineering,Networking,9.49,"Python, SQL, Excel",AWS Cloud Practitioner,4,Healthcare,Yes,Data Analyst
+BCA,Electronics,Cloud Computing,7.27,"Azure, Docker, Kubernetes",Microsoft Azure Fundamentals,3,Manufacturing,No,Data Analyst
+M.Sc,Data Science,Cloud Computing,7.37,"R, Statistics, Data Visualization",Google Data Analytics,8,Retail,No,Cloud Engineer
+BCA,Electrical Engineering,Cybersecurity,6.16,"AWS, Linux, Networking",AWS Certified Solutions Architect,4,Manufacturing,Yes,Data Analyst
+B.Sc,Information Technology,Cloud Computing,6.19,"R, Statistics, Data Visualization",AWS Certified Solutions Architect,2,Healthcare,No,Data Analyst
+M.Sc,Information Technology,Cybersecurity,9.29,"Python, Pandas, Numpy",Google Data Analytics,10,Education,No,Cloud Engineer
+B.Tech,Electrical Engineering,Machine Learning,9.87,"Azure, Docker, Kubernetes",LinkedIn Learning Cloud Course,0,Retail,Yes,Data Analyst
+M.Sc,Data Science,Cybersecurity,8.05,"R, Statistics, Data Visualization",Coursera Data Analyst Certificate,3,Manufacturing,No,Cloud Engineer
+M.Tech,Information Technology,Machine Learning,8.81,"Azure, Docker, Kubernetes",AWS Certified Solutions Architect,6,Finance,Yes,Data Analyst
+M.Sc,Computer Science,Networking,8.05,"Cloud Security, Virtualization",Coursera Data Analyst Certificate,9,Retail,Yes,Data Analyst
+B.Sc,Electrical Engineering,Cybersecurity,9.51,"Python, Pandas, Numpy",AWS Cloud Practitioner,9,Healthcare,Yes,Cloud Engineer
+B.Tech,Electronics,Cloud Computing,6.62,"AWS, Linux, Networking",Google Data Analytics,3,Manufacturing,Yes,Cloud Engineer
+M.Sc,Data Science,Machine Learning,8.61,"AWS, Terraform, DevOps Tools",AWS Cloud Practitioner,7,Manufacturing,Yes,Cloud Engineer
+BCA,Electronics,Networking,6.42,"R, Statistics, Data Visualization",AWS Certified Solutions Architect,6,IT,Yes,Data Analyst
+MCA,Information Technology,Cloud Computing,9.48,"Cloud Security, Virtualization",Microsoft Azure Fundamentals,7,Finance,No,Cloud Engineer
+B.Sc,Information Technology,Cloud Computing,7.06,"Power BI, Tableau, Excel",Google Cloud Engineer,4,Healthcare,No,Cloud Engineer
+B.Tech,Data Science,Cloud Computing,9.89,"Big Data, Hadoop, Spark",Microsoft Azure Fundamentals,0,Healthcare,Yes,Data Analyst
+MCA,Electronics,Cybersecurity,8.41,"Azure, Docker, Kubernetes",Coursera Data Analyst Certificate,2,Finance,Yes,Data Analyst
+MCA,Information Technology,Cloud Computing,8.36,"AWS, Linux, Networking",Coursera Data Analyst Certificate,6,Finance,Yes,Data Analyst
+B.Sc,Data Science,Networking,7.37,"Python, Pandas, Numpy",Coursera Data Analyst Certificate,8,Retail,Yes,Data Analyst
+MCA,Data Science,Data Analytics,8.32,"Big Data, Hadoop, Spark",Oracle Cloud Infrastructure,5,Retail,No,Cloud Engineer
+M.Sc,Electrical Engineering,Cybersecurity,8.5,"Cloud Security, Virtualization",Microsoft Azure Fundamentals,8,Retail,No,Data Analyst
+M.Tech,Electrical Engineering,Cloud Computing,6.22,"Python, Pandas, Numpy",Google Data Analytics,7,Manufacturing,No,Data Analyst
+M.Tech,Data Science,Networking,9.05,"AWS, Terraform, DevOps Tools",Coursera Data Analyst Certificate,2,Retail,No,Data Analyst
+BCA,Data Science,Cloud Computing,8.0,"Cloud Security, Virtualization",AWS Certified Solutions Architect,8,Finance,Yes,Data Analyst
+MCA,Electronics,Cybersecurity,8.45,"AWS, Linux, Networking",AWS Certified Solutions Architect,2,Healthcare,No,Cloud Engineer
+B.Sc,Computer Science,Networking,8.74,"AWS, Terraform, DevOps Tools",Google Data Analytics,6,Retail,No,Data Analyst
+B.Tech,Data Science,Cybersecurity,7.4,"AWS, Linux, Networking",Oracle Cloud Infrastructure,5,Finance,Yes,Cloud Engineer
+B.Sc,Data Science,Networking,8.85,"R, Statistics, Data Visualization",Google Data Analytics,6,Retail,Yes,Data Analyst
+B.Tech,Electronics,Cybersecurity,8.38,"Cloud Security, Virtualization",Oracle Cloud Infrastructure,10,Education,Yes,Data Analyst
+M.Tech,Information Technology,Networking,8.66,"Big Data, Hadoop, Spark",Coursera Data Analyst Certificate,8,Education,No,Data Analyst
+M.Sc,Computer Science,Machine Learning,9.13,"Python, Pandas, Numpy",Coursera Data Analyst Certificate,8,Retail,No,Data Analyst
+M.Sc,Information Technology,Networking,6.02,"Power BI, Tableau, Excel",Microsoft Azure Fundamentals,4,Finance,No,Data Analyst
+B.Tech,Computer Science,Machine Learning,6.16,"Cloud Security, Virtualization",AWS Cloud Practitioner,9,IT,No,Data Analyst
+M.Sc,Information Technology,Networking,6.62,"Cloud Security, Virtualization",AWS Cloud Practitioner,6,Manufacturing,No,Data Analyst
+B.Tech,Data Science,Cybersecurity,6.36,"Cloud Security, Virtualization",Google Data Analytics,7,Manufacturing,Yes,Cloud Engineer
+BCA,Electrical Engineering,Machine Learning,6.5,"AWS, Terraform, DevOps Tools",Oracle Cloud Infrastructure,0,Manufacturing,No,Data Analyst
+B.Sc,Electrical Engineering,Cybersecurity,8.09,"Azure, Docker, Kubernetes",Google Data Analytics,3,Healthcare,No,Data Analyst
+B.Sc,Data Science,Cybersecurity,8.33,"Power BI, Tableau, Excel",Google Cloud Engineer,6,Manufacturing,Yes,Cloud Engineer
+M.Tech,Electronics,Cybersecurity,7.95,"Cloud Security, Virtualization",IBM Data Science,1,Healthcare,No,Data Analyst
+M.Sc,Electronics,Data Analytics,6.28,"Big Data, Hadoop, Spark",AWS Cloud Practitioner,10,IT,No,Cloud Engineer
+B.Sc,Electronics,Data Analytics,9.25,"Azure, Docker, Kubernetes",AWS Certified Solutions Architect,5,Healthcare,No,Data Analyst
+MCA,Data Science,Machine Learning,8.1,"Cloud Security, Virtualization",AWS Cloud Practitioner,8,Finance,No,Data Analyst
+M.Sc,Information Technology,Cloud Computing,7.02,"R, Statistics, Data Visualization",IBM Data Science,6,Healthcare,No,Data Analyst
+BCA,Electrical Engineering,Networking,9.52,"Python, Pandas, Numpy",Google Data Analytics,9,Retail,Yes,Cloud Engineer
+BCA,Information Technology,Networking,9.14,"R, Statistics, Data Visualization",Microsoft Azure Fundamentals,3,Healthcare,Yes,Data Analyst
+M.Sc,Electrical Engineering,Networking,6.52,"AWS, Terraform, DevOps Tools",AWS Certified Solutions Architect,1,IT,No,Cloud Engineer
+MCA,Information Technology,Data Analytics,9.26,"AWS, Terraform, DevOps Tools",LinkedIn Learning Cloud Course,5,Retail,Yes,Cloud Engineer
+BCA,Computer Science,Data Analytics,9.3,"Big Data, Hadoop, Spark",Google Data Analytics,7,Manufacturing,Yes,Cloud Engineer
+B.Sc,Electronics,Cloud Computing,8.09,"Big Data, Hadoop, Spark",IBM Data Science,2,Healthcare,Yes,Cloud Engineer
+BCA,Data Science,Cybersecurity,6.45,"AWS, Terraform, DevOps Tools",Oracle Cloud Infrastructure,6,Manufacturing,No,Cloud Engineer
+M.Sc,Computer Science,Machine Learning,9.25,"Big Data, Hadoop, Spark",Oracle Cloud Infrastructure,9,IT,Yes,Data Analyst
+M.Tech,Computer Science,Data Analytics,9.66,"Azure, Docker, Kubernetes",Google Data Analytics,5,Finance,No,Cloud Engineer
+B.Sc,Data Science,Cloud Computing,6.9,"Power BI, Tableau, Excel",Google Data Analytics,9,IT,Yes,Cloud Engineer
+B.Sc,Information Technology,Cybersecurity,6.98,"Python, SQL, Excel",AWS Certified Solutions Architect,2,Retail,Yes,Cloud Engineer
+M.Sc,Electronics,Data Analytics,7.79,"Python, SQL, Excel",AWS Certified Solutions Architect,0,Education,No,Cloud Engineer
+M.Sc,Electrical Engineering,Networking,6.99,"Big Data, Hadoop, Spark",Google Cloud Engineer,7,Retail,Yes,Cloud Engineer
+MCA,Data Science,Data Analytics,8.77,"Power BI, Tableau, Excel",AWS Certified Solutions Architect,8,IT,No,Cloud Engineer
+M.Sc,Electronics,Cloud Computing,9.21,"Power BI, Tableau, Excel",Google Cloud Engineer,3,IT,No,Cloud Engineer
+B.Sc,Electrical Engineering,Machine Learning,8.11,"Python, SQL, Excel",Coursera Data Analyst Certificate,4,Finance,No,Data Analyst
+BCA,Electronics,Machine Learning,6.28,"Python, Pandas, Numpy",LinkedIn Learning Cloud Course,3,Finance,No,Data Analyst
+M.Tech,Data Science,Cybersecurity,6.44,"Azure, Docker, Kubernetes",LinkedIn Learning Cloud Course,1,Healthcare,No,Data Analyst
+M.Tech,Electronics,Cybersecurity,6.27,"Python, Pandas, Numpy",AWS Certified Solutions Architect,3,IT,No,Cloud Engineer
+B.Tech,Computer Science,Networking,6.36,"Power BI, Tableau, Excel",LinkedIn Learning Cloud Course,5,Manufacturing,Yes,Data Analyst
+M.Tech,Information Technology,Networking,6.64,"Python, Pandas, Numpy",Oracle Cloud Infrastructure,6,Retail,Yes,Data Analyst
+M.Sc,Computer Science,Cloud Computing,7.71,"Big Data, Hadoop, Spark",Oracle Cloud Infrastructure,1,Retail,Yes,Cloud Engineer
+M.Tech,Electronics,Cybersecurity,6.36,"Azure, Docker, Kubernetes",Coursera Data Analyst Certificate,5,Manufacturing,Yes,Data Analyst
+B.Sc,Information Technology,Data Analytics,6.82,"Big Data, Hadoop, Spark",Oracle Cloud Infrastructure,2,Finance,No,Cloud Engineer
+B.Sc,Computer Science,Cloud Computing,9.72,"AWS, Linux, Networking",AWS Cloud Practitioner,1,IT,Yes,Data Analyst
+BCA,Electrical Engineering,Data Analytics,9.73,"Big Data, Hadoop, Spark",AWS Certified Solutions Architect,8,Finance,Yes,Data Analyst
+M.Tech,Data Science,Data Analytics,9.71,"AWS, Linux, Networking",IBM Data Science,10,IT,No,Data Analyst
+B.Sc,Data Science,Data Analytics,7.3,"AWS, Terraform, DevOps Tools",Coursera Data Analyst Certificate,3,IT,No,Data Analyst
+M.Sc,Information Technology,Machine Learning,9.83,"Azure, Docker, Kubernetes",Google Data Analytics,9,IT,Yes,Data Analyst
+B.Tech,Data Science,Cybersecurity,8.94,"AWS, Linux, Networking",Google Data Analytics,6,Education,No,Data Analyst
+BCA,Computer Science,Networking,9.32,"AWS, Terraform, DevOps Tools",AWS Certified Solutions Architect,6,Retail,Yes,Cloud Engineer
+MCA,Electronics,Cloud Computing,8.59,"Python, Pandas, Numpy",LinkedIn Learning Cloud Course,5,Retail,No,Data Analyst
+B.Sc,Computer Science,Machine Learning,8.28,"AWS, Terraform, DevOps Tools",Microsoft Azure Fundamentals,0,Finance,No,Data Analyst
+M.Sc,Computer Science,Data Analytics,7.32,"Python, Pandas, Numpy",IBM Data Science,10,Education,No,Data Analyst
+MCA,Information Technology,Cybersecurity,6.66,"Power BI, Tableau, Excel",LinkedIn Learning Cloud Course,9,Manufacturing,No,Data Analyst
+M.Sc,Computer Science,Cybersecurity,8.31,"AWS, Terraform, DevOps Tools",IBM Data Science,10,Manufacturing,No,Cloud Engineer
+M.Sc,Electrical Engineering,Cybersecurity,7.45,"R, Statistics, Data Visualization",Microsoft Azure Fundamentals,6,Finance,Yes,Data Analyst
+BCA,Electrical Engineering,Networking,8.6,"AWS, Linux, Networking",LinkedIn Learning Cloud Course,3,Retail,Yes,Cloud Engineer
+MCA,Electrical Engineering,Cybersecurity,9.29,"Azure, Docker, Kubernetes",Microsoft Azure Fundamentals,5,Manufacturing,Yes,Cloud Engineer
+BCA,Electronics,Networking,6.02,"Power BI, Tableau, Excel",AWS Cloud Practitioner,10,Healthcare,Yes,Data Analyst
+M.Tech,Electronics,Machine Learning,7.66,"AWS, Linux, Networking",Oracle Cloud Infrastructure,3,Healthcare,Yes,Cloud Engineer
+MCA,Information Technology,Data Analytics,8.76,"Power BI, Tableau, Excel",Coursera Data Analyst Certificate,10,Education,No,Cloud Engineer
+MCA,Information Technology,Machine Learning,6.42,"Python, SQL, Excel",Google Data Analytics,0,Finance,No,Data Analyst
+B.Sc,Information Technology,Cloud Computing,6.4,"AWS, Linux, Networking",Oracle Cloud Infrastructure,2,Education,Yes,Cloud Engineer
+B.Tech,Data Science,Machine Learning,6.16,"Python, Pandas, Numpy",LinkedIn Learning Cloud Course,2,Healthcare,Yes,Cloud Engineer
+MCA,Information Technology,Data Analytics,7.47,"Cloud Security, Virtualization",AWS Cloud Practitioner,9,Retail,Yes,Data Analyst
+M.Sc,Electronics,Cybersecurity,8.7,"Python, Pandas, Numpy",Google Cloud Engineer,10,Finance,No,Data Analyst
+B.Sc,Electronics,Data Analytics,7.31,"Python, SQL, Excel",LinkedIn Learning Cloud Course,7,Healthcare,No,Cloud Engineer
+M.Tech,Electrical Engineering,Cybersecurity,8.59,"Big Data, Hadoop, Spark",Oracle Cloud Infrastructure,8,Healthcare,Yes,Cloud Engineer
+BCA,Information Technology,Machine Learning,6.9,"Big Data, Hadoop, Spark",IBM Data Science,10,Finance,No,Cloud Engineer
+B.Tech,Computer Science,Cloud Computing,6.41,"AWS, Linux, Networking",Google Data Analytics,3,Education,Yes,Data Analyst
+M.Tech,Electronics,Cybersecurity,9.0,"AWS, Linux, Networking",AWS Cloud Practitioner,0,Finance,Yes,Cloud Engineer
+M.Tech,Information Technology,Networking,7.5,"R, Statistics, Data Visualization",Google Data Analytics,1,Education,Yes,Cloud Engineer
+B.Sc,Electrical Engineering,Machine Learning,9.46,"AWS, Terraform, DevOps Tools",LinkedIn Learning Cloud Course,1,Finance,Yes,Cloud Engineer
+B.Tech,Data Science,Networking,7.29,"Azure, Docker, Kubernetes",AWS Cloud Practitioner,7,Manufacturing,No,Cloud Engineer
+M.Tech,Electronics,Networking,9.29,"Cloud Security, Virtualization",IBM Data Science,8,IT,Yes,Data Analyst
+BCA,Electronics,Cybersecurity,7.9,"R, Statistics, Data Visualization",Coursera Data Analyst Certificate,1,IT,Yes,Data Analyst
+M.Sc,Data Science,Machine Learning,6.94,"AWS, Terraform, DevOps Tools",LinkedIn Learning Cloud Course,0,Education,No,Data Analyst
+M.Tech,Information Technology,Machine Learning,7.54,"Big Data, Hadoop, Spark",Coursera Data Analyst Certificate,10,Healthcare,Yes,Data Analyst
+M.Sc,Electrical Engineering,Machine Learning,6.1,"Power BI, Tableau, Excel",LinkedIn Learning Cloud Course,4,Education,No,Cloud Engineer
+BCA,Electronics,Cloud Computing,6.69,"AWS, Linux, Networking",Google Cloud Engineer,2,Manufacturing,Yes,Cloud Engineer
+BCA,Electronics,Cybersecurity,6.39,"Azure, Docker, Kubernetes",AWS Certified Solutions Architect,0,IT,Yes,Data Analyst
+BCA,Information Technology,Cybersecurity,8.9,"Azure, Docker, Kubernetes",LinkedIn Learning Cloud Course,2,Finance,Yes,Data Analyst
+B.Sc,Electronics,Data Analytics,6.05,"R, Statistics, Data Visualization",IBM Data Science,6,Healthcare,Yes,Data Analyst
+MCA,Computer Science,Data Analytics,9.02,"Python, Pandas, Numpy",IBM Data Science,10,Education,Yes,Data Analyst
+M.Sc,Electrical Engineering,Data Analytics,6.65,"Big Data, Hadoop, Spark",AWS Cloud Practitioner,1,Finance,No,Cloud Engineer
+B.Tech,Computer Science,Data Analytics,6.99,"Power BI, Tableau, Excel",Google Data Analytics,1,IT,Yes,Data Analyst
+B.Sc,Computer Science,Cloud Computing,6.81,"Python, SQL, Excel",AWS Cloud Practitioner,3,Finance,No,Data Analyst
+MCA,Information Technology,Data Analytics,6.56,"AWS, Linux, Networking",Microsoft Azure Fundamentals,5,Education,Yes,Data Analyst
+MCA,Computer Science,Data Analytics,6.24,"Cloud Security, Virtualization",Google Cloud Engineer,10,Finance,Yes,Data Analyst
+B.Sc,Information Technology,Machine Learning,6.14,"AWS, Linux, Networking",LinkedIn Learning Cloud Course,2,IT,No,Cloud Engineer
+MCA,Electronics,Data Analytics,6.71,"Cloud Security, Virtualization",Coursera Data Analyst Certificate,8,Healthcare,No,Data Analyst
+M.Tech,Information Technology,Machine Learning,6.76,"R, Statistics, Data Visualization",AWS Certified Solutions Architect,0,Education,Yes,Cloud Engineer
+B.Sc,Computer Science,Data Analytics,8.41,"Cloud Security, Virtualization",AWS Cloud Practitioner,10,Healthcare,Yes,Data Analyst
+MCA,Computer Science,Cloud Computing,6.73,"Azure, Docker, Kubernetes",Coursera Data Analyst Certificate,3,Retail,Yes,Data Analyst
+M.Sc,Electronics,Networking,7.66,"AWS, Terraform, DevOps Tools",Coursera Data Analyst Certificate,0,Education,Yes,Data Analyst
+B.Tech,Data Science,Cloud Computing,6.27,"Azure, Docker, Kubernetes",Oracle Cloud Infrastructure,5,Manufacturing,Yes,Data Analyst
+M.Tech,Electrical Engineering,Cloud Computing,8.88,"Python, Pandas, Numpy",Microsoft Azure Fundamentals,1,Manufacturing,Yes,Cloud Engineer
+M.Tech,Computer Science,Cloud Computing,9.24,"R, Statistics, Data Visualization",Coursera Data Analyst Certificate,1,Finance,No,Data Analyst
+B.Sc,Computer Science,Machine Learning,7.31,"Python, SQL, Excel",AWS Cloud Practitioner,5,Finance,No,Data Analyst
+M.Tech,Electronics,Cloud Computing,7.99,"Python, Pandas, Numpy",IBM Data Science,0,Retail,No,Cloud Engineer
+BCA,Electronics,Cybersecurity,9.03,"Power BI, Tableau, Excel",AWS Cloud Practitioner,0,Manufacturing,No,Data Analyst
+B.Tech,Data Science,Data Analytics,8.55,"Python, SQL, Excel",Google Data Analytics,8,Education,No,Data Analyst
+M.Sc,Data Science,Cloud Computing,9.74,"Python, SQL, Excel",Google Data Analytics,0,Manufacturing,No,Data Analyst
+M.Tech,Electronics,Cybersecurity,8.32,"Power BI, Tableau, Excel",Google Cloud Engineer,3,Finance,Yes,Data Analyst
+B.Tech,Electronics,Machine Learning,9.02,"Python, SQL, Excel",Coursera Data Analyst Certificate,7,IT,No,Cloud Engineer
+B.Sc,Electronics,Networking,9.05,"Python, SQL, Excel",Microsoft Azure Fundamentals,7,Retail,Yes,Cloud Engineer
+M.Sc,Information Technology,Cloud Computing,6.81,"Big Data, Hadoop, Spark",IBM Data Science,1,IT,No,Cloud Engineer
+M.Sc,Electronics,Networking,8.62,"Python, SQL, Excel",IBM Data Science,6,Retail,Yes,Data Analyst
+B.Tech,Electrical Engineering,Networking,8.74,"Big Data, Hadoop, Spark",LinkedIn Learning Cloud Course,1,Manufacturing,Yes,Data Analyst
+M.Sc,Information Technology,Data Analytics,9.81,"Cloud Security, Virtualization",Oracle Cloud Infrastructure,9,Finance,Yes,Data Analyst
+M.Sc,Information Technology,Cloud Computing,9.09,"AWS, Linux, Networking",AWS Cloud Practitioner,2,Manufacturing,Yes,Cloud Engineer
+M.Tech,Electronics,Cloud Computing,6.89,"Power BI, Tableau, Excel",Coursera Data Analyst Certificate,5,Retail,Yes,Data Analyst
+B.Tech,Electronics,Data Analytics,8.24,"AWS, Terraform, DevOps Tools",Google Data Analytics,8,Finance,No,Data Analyst
+B.Sc,Information Technology,Networking,6.9,"R, Statistics, Data Visualization",Microsoft Azure Fundamentals,4,Finance,Yes,Data Analyst
+B.Tech,Computer Science,Networking,8.57,"AWS, Terraform, DevOps Tools",AWS Cloud Practitioner,2,IT,Yes,Cloud Engineer
+B.Tech,Data Science,Machine Learning,7.91,"AWS, Terraform, DevOps Tools",Oracle Cloud Infrastructure,3,Healthcare,Yes,Data Analyst
+M.Tech,Information Technology,Cloud Computing,6.55,"Python, Pandas, Numpy",IBM Data Science,0,Healthcare,No,Cloud Engineer
+BCA,Electronics,Cybersecurity,6.22,"Big Data, Hadoop, Spark",AWS Certified Solutions Architect,10,Finance,Yes,Cloud Engineer
+B.Tech,Data Science,Networking,7.55,"Python, SQL, Excel",Google Data Analytics,7,IT,No,Cloud Engineer
+M.Sc,Electrical Engineering,Cloud Computing,6.15,"Big Data, Hadoop, Spark",IBM Data Science,6,Manufacturing,No,Cloud Engineer
+B.Tech,Electronics,Data Analytics,7.31,"Python, Pandas, Numpy",Google Data Analytics,4,Manufacturing,Yes,Cloud Engineer
+BCA,Computer Science,Cloud Computing,9.8,"Cloud Security, Virtualization",Coursera Data Analyst Certificate,6,Manufacturing,No,Data Analyst
+M.Sc,Computer Science,Networking,7.27,"Azure, Docker, Kubernetes",AWS Cloud Practitioner,5,Retail,No,Cloud Engineer
+B.Sc,Electronics,Cybersecurity,8.42,"R, Statistics, Data Visualization",Google Data Analytics,5,Education,No,Data Analyst
+B.Sc,Electronics,Data Analytics,6.71,"Cloud Security, Virtualization",Microsoft Azure Fundamentals,2,IT,Yes,Data Analyst
+B.Tech,Data Science,Machine Learning,7.25,"Big Data, Hadoop, Spark",Google Data Analytics,5,Healthcare,No,Data Analyst
+MCA,Electrical Engineering,Machine Learning,7.39,"Python, Pandas, Numpy",Google Cloud Engineer,7,Finance,No,Cloud Engineer
+B.Tech,Information Technology,Cloud Computing,7.99,"Big Data, Hadoop, Spark",Google Cloud Engineer,0,Retail,No,Data Analyst
+B.Sc,Computer Science,Cloud Computing,7.62,"R, Statistics, Data Visualization",IBM Data Science,9,Manufacturing,Yes,Cloud Engineer
+MCA,Information Technology,Cloud Computing,6.4,"AWS, Linux, Networking",LinkedIn Learning Cloud Course,3,Healthcare,Yes,Cloud Engineer
+B.Tech,Data Science,Cloud Computing,7.01,"Big Data, Hadoop, Spark",IBM Data Science,10,IT,Yes,Cloud Engineer
+BCA,Information Technology,Data Analytics,7.66,"Cloud Security, Virtualization",Microsoft Azure Fundamentals,6,Finance,Yes,Cloud Engineer
+BCA,Electrical Engineering,Cloud Computing,8.99,"Cloud Security, Virtualization",AWS Certified Solutions Architect,6,Manufacturing,Yes,Cloud Engineer
+M.Sc,Electrical Engineering,Machine Learning,7.39,"Azure, Docker, Kubernetes",Coursera Data Analyst Certificate,7,Manufacturing,No,Cloud Engineer
+BCA,Data Science,Cybersecurity,9.22,"R, Statistics, Data Visualization",AWS Cloud Practitioner,1,Retail,Yes,Data Analyst
+B.Tech,Computer Science,Data Analytics,8.99,"Python, Pandas, Numpy",LinkedIn Learning Cloud Course,2,Retail,Yes,Data Analyst
+M.Sc,Information Technology,Machine Learning,9.29,"Azure, Docker, Kubernetes",IBM Data Science,3,Retail,Yes,Cloud Engineer
+MCA,Data Science,Machine Learning,9.57,"AWS, Linux, Networking",IBM Data Science,7,IT,No,Data Analyst
+BCA,Computer Science,Cloud Computing,9.32,"Python, SQL, Excel",Google Data Analytics,6,Healthcare,No,Data Analyst
+B.Sc,Data Science,Networking,8.96,"Python, SQL, Excel",AWS Cloud Practitioner,10,Healthcare,Yes,Data Analyst
+M.Sc,Computer Science,Data Analytics,6.51,"AWS, Terraform, DevOps Tools",IBM Data Science,7,Retail,No,Data Analyst
+M.Tech,Computer Science,Machine Learning,7.6,"Azure, Docker, Kubernetes",Oracle Cloud Infrastructure,9,Finance,No,Data Analyst
+MCA,Electrical Engineering,Cloud Computing,7.01,"Python, SQL, Excel",Google Cloud Engineer,5,Retail,No,Cloud Engineer
+M.Tech,Electrical Engineering,Data Analytics,6.31,"AWS, Linux, Networking",Google Data Analytics,0,Finance,Yes,Cloud Engineer
+B.Tech,Electronics,Networking,8.5,"AWS, Terraform, DevOps Tools",IBM Data Science,1,Education,Yes,Data Analyst
+M.Tech,Data Science,Cloud Computing,6.67,"AWS, Linux, Networking",AWS Cloud Practitioner,6,Healthcare,Yes,Data Analyst
+B.Sc,Data Science,Machine Learning,7.64,"Big Data, Hadoop, Spark",Google Cloud Engineer,5,Healthcare,No,Cloud Engineer
+M.Tech,Computer Science,Machine Learning,7.56,"Cloud Security, Virtualization",IBM Data Science,10,IT,No,Data Analyst
+B.Sc,Electronics,Networking,7.26,"Azure, Docker, Kubernetes",Coursera Data Analyst Certificate,4,Education,Yes,Cloud Engineer
+B.Sc,Information Technology,Data Analytics,6.08,"AWS, Linux, Networking",LinkedIn Learning Cloud Course,10,Finance,Yes,Data Analyst
+BCA,Computer Science,Cybersecurity,9.25,"AWS, Linux, Networking",Microsoft Azure Fundamentals,6,Education,No,Cloud Engineer
+M.Tech,Data Science,Data Analytics,8.1,"Cloud Security, Virtualization",Coursera Data Analyst Certificate,10,Finance,Yes,Data Analyst
+M.Sc,Data Science,Cybersecurity,9.2,"Python, Pandas, Numpy",Google Data Analytics,8,Retail,Yes,Data Analyst
+MCA,Data Science,Data Analytics,8.33,"R, Statistics, Data Visualization",Google Cloud Engineer,2,Finance,Yes,Data Analyst
+BCA,Computer Science,Cybersecurity,7.85,"AWS, Linux, Networking",AWS Cloud Practitioner,3,Manufacturing,Yes,Data Analyst
+M.Sc,Data Science,Machine Learning,7.44,"Python, Pandas, Numpy",AWS Certified Solutions Architect,7,Retail,No,Data Analyst
+BCA,Data Science,Machine Learning,8.26,"R, Statistics, Data Visualization",IBM Data Science,10,IT,Yes,Cloud Engineer
+BCA,Information Technology,Cloud Computing,9.26,"Power BI, Tableau, Excel",LinkedIn Learning Cloud Course,1,IT,No,Data Analyst
+MCA,Data Science,Networking,8.11,"Big Data, Hadoop, Spark",Coursera Data Analyst Certificate,3,Manufacturing,No,Data Analyst
+M.Sc,Computer Science,Machine Learning,7.0,"AWS, Terraform, DevOps Tools",Coursera Data Analyst Certificate,0,Healthcare,Yes,Cloud Engineer
+M.Tech,Computer Science,Cybersecurity,9.66,"Python, Pandas, Numpy",LinkedIn Learning Cloud Course,5,Education,Yes,Data Analyst
+M.Sc,Electrical Engineering,Data Analytics,7.8,"Azure, Docker, Kubernetes",IBM Data Science,2,IT,Yes,Cloud Engineer
+M.Sc,Electrical Engineering,Machine Learning,7.05,"Big Data, Hadoop, Spark",Google Data Analytics,7,Healthcare,Yes,Cloud Engineer
+B.Tech,Electrical Engineering,Data Analytics,9.07,"AWS, Terraform, DevOps Tools",Coursera Data Analyst Certificate,10,Manufacturing,No,Data Analyst
+M.Tech,Information Technology,Machine Learning,7.74,"R, Statistics, Data Visualization",AWS Certified Solutions Architect,5,IT,No,Cloud Engineer
+B.Sc,Electrical Engineering,Networking,6.62,"AWS, Linux, Networking",Oracle Cloud Infrastructure,9,Finance,No,Cloud Engineer
+M.Tech,Information Technology,Cybersecurity,7.48,"Azure, Docker, Kubernetes",Oracle Cloud Infrastructure,6,Retail,Yes,Cloud Engineer
+MCA,Electronics,Cybersecurity,8.81,"Azure, Docker, Kubernetes",Microsoft Azure Fundamentals,6,Finance,No,Cloud Engineer
+M.Tech,Computer Science,Cybersecurity,8.33,"Cloud Security, Virtualization",Microsoft Azure Fundamentals,7,IT,Yes,Cloud Engineer
+B.Sc,Data Science,Networking,6.22,"Big Data, Hadoop, Spark",Oracle Cloud Infrastructure,9,Education,No,Data Analyst
+M.Sc,Data Science,Data Analytics,6.06,"Azure, Docker, Kubernetes",Oracle Cloud Infrastructure,1,IT,No,Cloud Engineer
+BCA,Electronics,Cybersecurity,7.81,"Power BI, Tableau, Excel",Google Cloud Engineer,9,Retail,Yes,Data Analyst
+MCA,Information Technology,Machine Learning,8.22,"Cloud Security, Virtualization",Google Cloud Engineer,4,Retail,No,Cloud Engineer
+M.Sc,Electrical Engineering,Cloud Computing,8.6,"Azure, Docker, Kubernetes",LinkedIn Learning Cloud Course,1,Education,No,Data Analyst
+B.Tech,Information Technology,Data Analytics,6.62,"R, Statistics, Data Visualization",LinkedIn Learning Cloud Course,4,IT,No,Data Analyst
+M.Sc,Electronics,Data Analytics,9.03,"Azure, Docker, Kubernetes",AWS Certified Solutions Architect,8,Finance,No,Cloud Engineer
+M.Tech,Data Science,Cloud Computing,7.84,"Python, SQL, Excel",AWS Certified Solutions Architect,9,Retail,No,Cloud Engineer
+B.Sc,Electronics,Cybersecurity,7.31,"Big Data, Hadoop, Spark",IBM Data Science,0,Finance,Yes,Cloud Engineer
+BCA,Computer Science,Networking,7.68,"Power BI, Tableau, Excel",Microsoft Azure Fundamentals,8,Manufacturing,No,Data Analyst
+B.Sc,Electrical Engineering,Networking,7.97,"Big Data, Hadoop, Spark",Coursera Data Analyst Certificate,9,IT,Yes,Cloud Engineer
+M.Tech,Information Technology,Networking,9.56,"Azure, Docker, Kubernetes",AWS Certified Solutions Architect,1,Retail,No,Data Analyst
+B.Tech,Electronics,Cybersecurity,9.71,"R, Statistics, Data Visualization",AWS Cloud Practitioner,10,Retail,No,Cloud Engineer
+B.Sc,Electrical Engineering,Cloud Computing,6.28,"AWS, Terraform, DevOps Tools",Coursera Data Analyst Certificate,6,Manufacturing,Yes,Cloud Engineer
+M.Sc,Information Technology,Cloud Computing,9.79,"AWS, Linux, Networking",Coursera Data Analyst Certificate,1,Education,No,Data Analyst
+B.Tech,Data Science,Networking,6.79,"AWS, Linux, Networking",LinkedIn Learning Cloud Course,1,IT,Yes,Cloud Engineer
+B.Tech,Computer Science,Cybersecurity,9.23,"Big Data, Hadoop, Spark",Coursera Data Analyst Certificate,8,IT,Yes,Data Analyst
+M.Tech,Information Technology,Cybersecurity,6.35,"Power BI, Tableau, Excel",Oracle Cloud Infrastructure,1,Education,No,Cloud Engineer
+B.Tech,Electronics,Machine Learning,6.5,"Python, Pandas, Numpy",AWS Cloud Practitioner,5,IT,Yes,Cloud Engineer
+B.Sc,Electronics,Data Analytics,9.0,"Azure, Docker, Kubernetes",Google Data Analytics,9,Manufacturing,No,Cloud Engineer
+M.Tech,Data Science,Networking,8.45,"R, Statistics, Data Visualization",Microsoft Azure Fundamentals,2,Finance,No,Data Analyst
+BCA,Electronics,Cloud Computing,8.08,"R, Statistics, Data Visualization",LinkedIn Learning Cloud Course,4,Manufacturing,No,Cloud Engineer
+BCA,Electronics,Machine Learning,7.92,"Python, Pandas, Numpy",Coursera Data Analyst Certificate,8,Retail,No,Data Analyst
+M.Sc,Computer Science,Data Analytics,6.67,"AWS, Linux, Networking",IBM Data Science,6,Healthcare,Yes,Cloud Engineer
+M.Tech,Information Technology,Networking,6.64,"Power BI, Tableau, Excel",Coursera Data Analyst Certificate,0,Retail,No,Data Analyst
+B.Sc,Electrical Engineering,Networking,10.0,"Big Data, Hadoop, Spark",LinkedIn Learning Cloud Course,9,Manufacturing,No,Cloud Engineer
+BCA,Computer Science,Networking,8.51,"Cloud Security, Virtualization",AWS Certified Solutions Architect,4,Retail,No,Cloud Engineer
+MCA,Information Technology,Networking,9.08,"Big Data, Hadoop, Spark",Google Data Analytics,7,Healthcare,No,Data Analyst
+B.Sc,Information Technology,Data Analytics,6.37,"R, Statistics, Data Visualization",LinkedIn Learning Cloud Course,2,Education,Yes,Cloud Engineer
+M.Sc,Information Technology,Machine Learning,8.38,"Power BI, Tableau, Excel",Oracle Cloud Infrastructure,2,Finance,No,Cloud Engineer
+M.Tech,Data Science,Networking,8.88,"Python, Pandas, Numpy",Microsoft Azure Fundamentals,0,Manufacturing,Yes,Data Analyst
+M.Sc,Information Technology,Machine Learning,9.44,"Cloud Security, Virtualization",Oracle Cloud Infrastructure,10,IT,Yes,Cloud Engineer
+BCA,Data Science,Cloud Computing,9.01,"Python, SQL, Excel",AWS Certified Solutions Architect,10,IT,Yes,Cloud Engineer
+M.Sc,Data Science,Cybersecurity,7.68,"Python, Pandas, Numpy",Coursera Data Analyst Certificate,8,Education,Yes,Cloud Engineer
+M.Tech,Electrical Engineering,Cloud Computing,6.27,"Power BI, Tableau, Excel",IBM Data Science,4,Finance,No,Data Analyst
+M.Tech,Computer Science,Machine Learning,7.24,"Python, SQL, Excel",Coursera Data Analyst Certificate,0,Education,Yes,Cloud Engineer
+M.Tech,Data Science,Networking,9.28,"Cloud Security, Virtualization",IBM Data Science,2,Finance,Yes,Cloud Engineer
+M.Tech,Information Technology,Data Analytics,8.91,"AWS, Linux, Networking",AWS Cloud Practitioner,6,Finance,Yes,Cloud Engineer
+M.Tech,Electrical Engineering,Cloud Computing,6.82,"Power BI, Tableau, Excel",AWS Cloud Practitioner,5,Retail,Yes,Data Analyst
+BCA,Information Technology,Cloud Computing,7.0,"AWS, Terraform, DevOps Tools",LinkedIn Learning Cloud Course,7,Education,No,Cloud Engineer
+M.Sc,Electrical Engineering,Cloud Computing,6.9,"Python, SQL, Excel",Microsoft Azure Fundamentals,3,Finance,Yes,Data Analyst
+M.Tech,Electronics,Data Analytics,8.51,"R, Statistics, Data Visualization",Microsoft Azure Fundamentals,9,Healthcare,Yes,Data Analyst
+B.Sc,Information Technology,Networking,6.84,"Power BI, Tableau, Excel",Oracle Cloud Infrastructure,4,IT,No,Data Analyst
+M.Sc,Data Science,Data Analytics,9.44,"Python, SQL, Excel",AWS Cloud Practitioner,1,Manufacturing,Yes,Cloud Engineer
+M.Sc,Computer Science,Networking,8.86,"Cloud Security, Virtualization",Oracle Cloud Infrastructure,4,Finance,Yes,Cloud Engineer
+MCA,Computer Science,Cybersecurity,8.08,"AWS, Terraform, DevOps Tools",Oracle Cloud Infrastructure,2,Healthcare,Yes,Cloud Engineer
+B.Sc,Electronics,Cybersecurity,9.32,"Big Data, Hadoop, Spark",Google Data Analytics,3,IT,Yes,Data Analyst
+M.Sc,Electrical Engineering,Cybersecurity,7.75,"Big Data, Hadoop, Spark",Google Cloud Engineer,6,Healthcare,Yes,Cloud Engineer
+M.Tech,Information Technology,Networking,7.98,"AWS, Terraform, DevOps Tools",LinkedIn Learning Cloud Course,3,Retail,Yes,Data Analyst
+BCA,Information Technology,Cloud Computing,8.44,"Python, Pandas, Numpy",Google Data Analytics,7,Healthcare,Yes,Cloud Engineer
+B.Tech,Electronics,Data Analytics,7.52,"AWS, Linux, Networking",LinkedIn Learning Cloud Course,6,Retail,No,Cloud Engineer
+BCA,Electronics,Cybersecurity,7.35,"Python, Pandas, Numpy",Oracle Cloud Infrastructure,0,Healthcare,No,Cloud Engineer
+MCA,Computer Science,Cloud Computing,8.83,"Python, Pandas, Numpy",Oracle Cloud Infrastructure,5,Retail,No,Cloud Engineer
+MCA,Computer Science,Cloud Computing,9.63,"Python, Pandas, Numpy",Google Data Analytics,0,Manufacturing,Yes,Cloud Engineer
+M.Sc,Computer Science,Networking,9.92,"Cloud Security, Virtualization",Oracle Cloud Infrastructure,7,Retail,Yes,Data Analyst
+MCA,Electronics,Machine Learning,9.49,"Python, Pandas, Numpy",Google Cloud Engineer,8,Manufacturing,No,Cloud Engineer
+B.Sc,Electronics,Networking,7.98,"R, Statistics, Data Visualization",Microsoft Azure Fundamentals,9,Retail,Yes,Cloud Engineer
+B.Sc,Electronics,Machine Learning,6.94,"AWS, Terraform, DevOps Tools",Google Data Analytics,1,Healthcare,No,Cloud Engineer
+M.Sc,Information Technology,Networking,8.19,"Big Data, Hadoop, Spark",LinkedIn Learning Cloud Course,6,Healthcare,No,Data Analyst
+M.Sc,Computer Science,Data Analytics,9.12,"Azure, Docker, Kubernetes",AWS Certified Solutions Architect,3,Education,No,Cloud Engineer
+M.Sc,Computer Science,Networking,9.34,"AWS, Linux, Networking",Google Cloud Engineer,9,Manufacturing,No,Cloud Engineer
+BCA,Information Technology,Cybersecurity,8.23,"Python, Pandas, Numpy",Coursera Data Analyst Certificate,2,Manufacturing,No,Cloud Engineer
+M.Sc,Electronics,Networking,6.23,"Azure, Docker, Kubernetes",AWS Certified Solutions Architect,9,Education,No,Cloud Engineer
+M.Sc,Electronics,Cloud Computing,8.27,"AWS, Linux, Networking",Google Cloud Engineer,8,Manufacturing,Yes,Data Analyst
+M.Tech,Electronics,Networking,8.74,"Python, SQL, Excel",AWS Certified Solutions Architect,4,Education,Yes,Cloud Engineer
+MCA,Information Technology,Cloud Computing,8.33,"AWS, Terraform, DevOps Tools",Oracle Cloud Infrastructure,2,Healthcare,Yes,Cloud Engineer
+B.Sc,Data Science,Cybersecurity,7.09,"Azure, Docker, Kubernetes",IBM Data Science,6,IT,No,Cloud Engineer
+M.Sc,Information Technology,Cybersecurity,8.93,"Python, Pandas, Numpy",IBM Data Science,4,IT,No,Data Analyst
+B.Sc,Information Technology,Machine Learning,7.38,"AWS, Terraform, DevOps Tools",Google Data Analytics,8,Education,Yes,Cloud Engineer
+B.Tech,Data Science,Networking,7.92,"Big Data, Hadoop, Spark",AWS Cloud Practitioner,8,Finance,No,Cloud Engineer
+B.Tech,Data Science,Cloud Computing,9.8,"Power BI, Tableau, Excel",Google Cloud Engineer,8,Healthcare,Yes,Cloud Engineer
+MCA,Data Science,Cloud Computing,9.14,"AWS, Terraform, DevOps Tools",IBM Data Science,10,IT,Yes,Cloud Engineer
+M.Tech,Electrical Engineering,Cybersecurity,8.93,"Cloud Security, Virtualization",Oracle Cloud Infrastructure,8,Retail,Yes,Data Analyst
+BCA,Electronics,Networking,6.99,"Power BI, Tableau, Excel",AWS Certified Solutions Architect,3,Finance,No,Data Analyst
+BCA,Electronics,Cybersecurity,9.24,"AWS, Terraform, DevOps Tools",AWS Cloud Practitioner,5,IT,No,Data Analyst
+BCA,Computer Science,Data Analytics,7.09,"R, Statistics, Data Visualization",Google Cloud Engineer,4,Finance,Yes,Cloud Engineer
+M.Sc,Electronics,Networking,7.86,"AWS, Terraform, DevOps Tools",AWS Cloud Practitioner,3,Education,Yes,Cloud Engineer
+B.Sc,Electronics,Cloud Computing,8.4,"Python, SQL, Excel",IBM Data Science,6,Education,Yes,Cloud Engineer
+M.Sc,Data Science,Networking,7.4,"Python, Pandas, Numpy",AWS Cloud Practitioner,6,IT,No,Cloud Engineer
+MCA,Electronics,Data Analytics,9.68,"R, Statistics, Data Visualization",Microsoft Azure Fundamentals,1,Manufacturing,No,Cloud Engineer
+BCA,Data Science,Cybersecurity,6.61,"Python, SQL, Excel",AWS Cloud Practitioner,9,Retail,Yes,Cloud Engineer
+M.Tech,Data Science,Cloud Computing,7.43,"Cloud Security, Virtualization",Oracle Cloud Infrastructure,0,IT,Yes,Data Analyst
+B.Tech,Computer Science,Data Analytics,7.97,"Python, SQL, Excel",AWS Certified Solutions Architect,8,Finance,No,Cloud Engineer
+M.Sc,Electronics,Data Analytics,7.76,"Cloud Security, Virtualization",Google Cloud Engineer,4,IT,No,Cloud Engineer
+M.Sc,Information Technology,Cloud Computing,7.29,"Azure, Docker, Kubernetes",IBM Data Science,2,IT,No,Cloud Engineer

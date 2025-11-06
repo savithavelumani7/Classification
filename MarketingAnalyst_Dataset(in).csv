@@ -1,0 +1,151 @@
+Degree,Major,Specialization,CGPA,Skills,Certifications,Years_of_Experience,Preferred_Industry,Job_Role
+MBA,Business Administration,Business Analytics,7.26,"Excel, SEO, Python",Power BI Certification,5,FMCG,Marketing Analyst
+BA,Business Administration,Strategic Marketing,6.51,"SEO, Communication, Marketing Strategy, Excel, SQL","Google Ads, Data Analytics Certificate",5,Consulting,Marketing Analyst
+BA,Computer Science,E-commerce Management,8.69,"SEO, SQL, Content Writing, Excel","Udemy SEO Expert, Excel Advanced, Power BI Certification, Google Ads",5,Finance,Marketing Analyst
+B.Tech,Business Administration,Advertising and Brand Management,9.03,"Communication, SEO, SQL","Udemy SEO Expert, Excel Advanced",0,Consulting,Marketing Analyst
+BBA,Marketing,Business Analytics,6.29,"Excel, Marketing Strategy, SEO, Communication",Power BI Certification,5,Education,Marketing Analyst
+BSc,Business Administration,Data Analytics,6.73,"Communication, Python, SQL, Power BI, SEO","Power BI Certification, Google Ads, Excel Advanced, Data Analytics Certificate",1,Media,Marketing Analyst
+MSc,Economics,Marketing Management,6.26,"Content Writing, SEO, Marketing Strategy, Google Analytics, Power BI","HubSpot Marketing, Excel Advanced, Data Analytics Certificate, Power BI Certification",0,Technology,Marketing Analyst
+BA,Finance,Finance and Marketing,8.76,"SQL, Power BI, Content Writing, SEO, Communication","Meta Blueprint, Data Analytics Certificate, HubSpot Marketing",2,Retail,Marketing Analyst
+M.Com,Economics,Market Research and Consumer Behavior,9.06,"Power BI, Excel, Marketing Strategy, Google Analytics, SEO",Udemy SEO Expert,2,Healthcare,Marketing Analyst
+BBA,Finance,Strategic Marketing,7.06,"SQL, Google Analytics, Power BI","Meta Blueprint, HubSpot Marketing, Excel Advanced, Data Analytics Certificate",3,Finance,Marketing Analyst
+BBA,Statistics,Marketing Management,8.91,"Power BI, Excel, Python, Google Analytics","Data Analytics Certificate, Power BI Certification, Excel Advanced",2,FMCG,Marketing Analyst
+B.Tech,Data Science,Digital Marketing,8.84,"Content Writing, Power BI, Communication","HubSpot Marketing, Meta Blueprint",1,Healthcare,Marketing Analyst
+BBA,Business Administration,Market Research and Consumer Behavior,8.99,"Marketing Strategy, Content Writing, Communication, Python","Coursera Marketing, HubSpot Marketing, Google Ads",4,Finance,Marketing Analyst
+BSc,Computer Science,Strategic Marketing,6.17,"Communication, Content Writing, Power BI","Power BI Certification, Meta Blueprint, HubSpot Marketing, Data Analytics Certificate",0,Education,Marketing Analyst
+BA,Statistics,International Business,7.31,"Python, Excel, SEO, Marketing Strategy",Power BI Certification,5,Finance,Marketing Analyst
+M.Com,Computer Science,Market Research and Consumer Behavior,9.61,"Google Analytics, SEO, Power BI, Communication, Excel, Marketing Strategy","Coursera Marketing, Power BI Certification",4,Technology,Marketing Analyst
+B.Tech,Data Science,E-commerce Management,8.66,"SEO, SQL, Communication, Google Analytics, Excel",Excel Advanced,5,Finance,Marketing Analyst
+BBA,Computer Science,Data Analytics,6.57,"SQL, Excel, Google Analytics, Marketing Strategy","Excel Advanced, Meta Blueprint, Power BI Certification, Data Analytics Certificate",0,Retail,Marketing Analyst
+BBA,Marketing,Digital Marketing,8.86,"Communication, Python, Google Analytics, Content Writing, Power BI",Google Ads,0,Retail,Marketing Analyst
+BBA,Statistics,Marketing Management,7.82,"Communication, SQL, Content Writing, SEO, Excel","Power BI Certification, Google Ads, HubSpot Marketing, Excel Advanced",1,Consulting,Marketing Analyst
+BA,Economics,Marketing Management,7.37,"Google Analytics, Power BI, SEO",Power BI Certification,0,Finance,Marketing Analyst
+B.Com,Statistics,Strategic Marketing,7.86,"Power BI, SEO, Excel, Google Analytics, Communication, Marketing Strategy","HubSpot Marketing, Excel Advanced",4,Finance,Marketing Analyst
+M.Com,Business Administration,International Business,9.84,"Excel, SQL, Python, Communication, Content Writing","HubSpot Marketing, Data Analytics Certificate, Google Ads, Coursera Marketing",3,E-commerce,Marketing Analyst
+BBA,Economics,E-commerce Management,8.4,"Power BI, Google Analytics, Python, SEO","Google Ads, HubSpot Marketing, Excel Advanced",0,Consulting,Marketing Analyst
+MSc,Business Administration,Advertising and Brand Management,8.75,"Power BI, Communication, SEO, Marketing Strategy","Data Analytics Certificate, Power BI Certification, Coursera Marketing",5,E-commerce,Marketing Analyst
+M.Com,Economics,Digital Marketing,6.37,"Power BI, Marketing Strategy, Communication, SEO",Google Ads,1,Technology,Marketing Analyst
+B.Com,Economics,Marketing Management,8.38,"SQL, Power BI, Marketing Strategy, Python, Excel","Excel Advanced, Coursera Marketing, Google Ads",1,Consulting,Marketing Analyst
+B.Tech,Economics,Marketing Management,7.16,"Power BI, Google Analytics, Content Writing, Python, SEO","Google Ads, Power BI Certification, Meta Blueprint",3,FMCG,Marketing Analyst
+B.Tech,Computer Science,International Business,6.6,"Communication, SQL, Marketing Strategy, Excel, SEO","Udemy SEO Expert, Coursera Marketing",0,Media,Marketing Analyst
+BA,Economics,Market Research and Consumer Behavior,6.23,"Python, Communication, SEO, Content Writing, Power BI, Excel","Excel Advanced, Google Ads",4,Consulting,Marketing Analyst
+M.Com,Statistics,Supply Chain and Marketing,9.76,"Python, SEO, Google Analytics, Communication","Coursera Marketing, Meta Blueprint",0,Media,Marketing Analyst
+BBA,Economics,Market Research and Consumer Behavior,7.26,"Content Writing, Communication, Marketing Strategy, Excel, Python",Meta Blueprint,5,Technology,Marketing Analyst
+MBA,Marketing,E-commerce Management,7.35,"Python, SQL, Excel","Coursera Marketing, Excel Advanced, HubSpot Marketing",4,FMCG,Marketing Analyst
+BA,Marketing,E-commerce Management,9.34,"Python, Google Analytics, Communication",Excel Advanced,0,FMCG,Marketing Analyst
+B.Tech,Economics,Operations and Marketing,6.55,"Content Writing, Excel, Power BI, SEO","Excel Advanced, HubSpot Marketing, Data Analytics Certificate, Google Ads",1,Technology,Marketing Analyst
+BA,Business Administration,Digital Marketing,7.47,"Communication, Content Writing, Python, Excel, SEO",Udemy SEO Expert,4,Finance,Marketing Analyst
+B.Com,Computer Science,Operations and Marketing,7.56,"Content Writing, Google Analytics, SQL","Coursera Marketing, HubSpot Marketing",0,Finance,Marketing Analyst
+M.Com,Statistics,Finance and Marketing,6.21,"Power BI, SEO, Content Writing, Google Analytics, Python, SQL",Excel Advanced,0,Technology,Marketing Analyst
+MBA,Marketing,Supply Chain and Marketing,7.96,"SQL, SEO, Communication, Power BI","Data Analytics Certificate, Google Ads, Udemy SEO Expert",2,Healthcare,Marketing Analyst
+BBA,Data Science,International Business,6.46,"Google Analytics, Communication, Python, Excel, Power BI",Udemy SEO Expert,2,Retail,Marketing Analyst
+MSc,Finance,Strategic Marketing,7.91,"Marketing Strategy, Content Writing, Excel, Power BI","Power BI Certification, Excel Advanced",4,Retail,Marketing Analyst
+B.Tech,Finance,Data Analytics,7.16,"Communication, Python, Content Writing, SEO","Google Ads, Excel Advanced",4,Technology,Marketing Analyst
+B.Com,Finance,Supply Chain and Marketing,8.25,"Power BI, Content Writing, Python, SEO, Google Analytics","Excel Advanced, Coursera Marketing, Google Ads",1,Technology,Marketing Analyst
+MSc,Economics,International Business,6.84,"Marketing Strategy, Communication, Power BI","Power BI Certification, Data Analytics Certificate, Google Ads, HubSpot Marketing",2,Finance,Marketing Analyst
+MSc,Economics,Marketing Management,6.9,"Marketing Strategy, Google Analytics, Excel, SEO, Python","Google Ads, Udemy SEO Expert, Meta Blueprint, Excel Advanced",5,E-commerce,Marketing Analyst
+MSc,Data Science,Finance and Marketing,6.83,"Communication, Python, Marketing Strategy, Excel, Power BI, SEO",Meta Blueprint,1,Finance,Marketing Analyst
+M.Com,Data Science,Marketing Management,9.59,"Python, Excel, Power BI, Communication, Marketing Strategy, Content Writing","HubSpot Marketing, Data Analytics Certificate",4,Education,Marketing Analyst
+M.Com,Finance,Advertising and Brand Management,6.39,"Excel, Content Writing, Communication, Google Analytics, SEO, Python","Google Ads, Data Analytics Certificate, HubSpot Marketing",4,E-commerce,Marketing Analyst
+MSc,Statistics,Supply Chain and Marketing,6.56,"Marketing Strategy, Excel, SQL, Power BI, Communication, Content Writing","Power BI Certification, HubSpot Marketing",3,E-commerce,Marketing Analyst
+MBA,Data Science,Supply Chain and Marketing,9.2,"SEO, Communication, Google Analytics, Marketing Strategy","Meta Blueprint, Excel Advanced, Power BI Certification, Udemy SEO Expert",3,E-commerce,Marketing Analyst
+BA,Business Administration,Supply Chain and Marketing,7.78,"Marketing Strategy, SQL, Power BI","Data Analytics Certificate, Udemy SEO Expert, HubSpot Marketing, Excel Advanced",5,Retail,Marketing Analyst
+BSc,Data Science,Advertising and Brand Management,9.58,"Excel, Marketing Strategy, Power BI","HubSpot Marketing, Data Analytics Certificate, Coursera Marketing, Excel Advanced",2,FMCG,Marketing Analyst
+MSc,Business Administration,Marketing Management,6.35,"SQL, Content Writing, SEO",HubSpot Marketing,2,E-commerce,Marketing Analyst
+MBA,Finance,International Business,9.25,"Content Writing, SQL, Excel",HubSpot Marketing,1,Education,Marketing Analyst
+BSc,Data Science,Digital Marketing,9.73,"Communication, Content Writing, Power BI, Marketing Strategy","HubSpot Marketing, Coursera Marketing, Udemy SEO Expert, Excel Advanced",3,Education,Marketing Analyst
+B.Com,Business Administration,Marketing Management,9.08,"SEO, Excel, SQL, Google Analytics, Marketing Strategy","Power BI Certification, Meta Blueprint, Udemy SEO Expert",3,E-commerce,Marketing Analyst
+BA,Marketing,E-commerce Management,9.62,"Content Writing, Python, SEO, Power BI, Google Analytics",Data Analytics Certificate,0,Healthcare,Marketing Analyst
+M.Com,Economics,International Business,9.19,"Excel, Content Writing, Marketing Strategy, Power BI, Google Analytics, SEO",Udemy SEO Expert,4,Education,Marketing Analyst
+MSc,Data Science,Marketing Management,6.03,"Google Analytics, Python, Marketing Strategy","Power BI Certification, Coursera Marketing, Udemy SEO Expert, Meta Blueprint",3,E-commerce,Marketing Analyst
+MSc,Economics,Marketing Management,6.36,"Power BI, Communication, SQL, Python","Power BI Certification, Excel Advanced, Udemy SEO Expert",0,FMCG,Marketing Analyst
+BA,Computer Science,Market Research and Consumer Behavior,8.89,"Power BI, Communication, SEO, Excel, Marketing Strategy, Python",Meta Blueprint,3,Technology,Marketing Analyst
+BA,Marketing,Market Research and Consumer Behavior,9.84,"Google Analytics, Power BI, Marketing Strategy, Excel","Google Ads, Power BI Certification, Coursera Marketing",0,FMCG,Marketing Analyst
+MSc,Marketing,Business Analytics,6.08,"Marketing Strategy, Google Analytics, Python, Power BI, Excel, Communication","Data Analytics Certificate, Google Ads, Power BI Certification",5,FMCG,Marketing Analyst
+BBA,Marketing,International Business,7.84,"Communication, SEO, Google Analytics, Content Writing, Power BI, Python","Excel Advanced, Udemy SEO Expert, HubSpot Marketing",2,E-commerce,Marketing Analyst
+BSc,Business Administration,International Business,7.84,"SQL, Power BI, Google Analytics, Communication, SEO, Excel","Udemy SEO Expert, Power BI Certification, HubSpot Marketing",3,Education,Marketing Analyst
+MBA,Business Administration,Market Research and Consumer Behavior,7.11,"Excel, SQL, Power BI, SEO, Google Analytics","Excel Advanced, Meta Blueprint",0,Finance,Marketing Analyst
+MSc,Computer Science,Digital Marketing,7.08,"Content Writing, Excel, Marketing Strategy, Communication, Power BI, Python",Power BI Certification,3,Retail,Marketing Analyst
+BSc,Business Administration,Market Research and Consumer Behavior,9.85,"Excel, SEO, Content Writing","Power BI Certification, HubSpot Marketing, Coursera Marketing, Udemy SEO Expert",5,Consulting,Marketing Analyst
+B.Tech,Computer Science,International Business,9.29,"Power BI, SQL, Python","Google Ads, Meta Blueprint, Udemy SEO Expert",3,Finance,Marketing Analyst
+BSc,Business Administration,Data Analytics,7.87,"SQL, Marketing Strategy, Google Analytics, Content Writing","Excel Advanced, Google Ads, Meta Blueprint",1,Education,Marketing Analyst
+MSc,Economics,International Business,8.91,"Excel, Content Writing, Communication","Coursera Marketing, Udemy SEO Expert",2,Education,Marketing Analyst
+B.Com,Economics,Operations and Marketing,8.06,"Power BI, SQL, Communication","Power BI Certification, Udemy SEO Expert, Data Analytics Certificate",4,E-commerce,Marketing Analyst
+BBA,Economics,Market Research and Consumer Behavior,6.09,"Marketing Strategy, Communication, Power BI, Excel","Google Ads, HubSpot Marketing",2,Education,Marketing Analyst
+M.Com,Data Science,Operations and Marketing,9.59,"SEO, Google Analytics, Marketing Strategy, SQL, Content Writing",Udemy SEO Expert,2,Media,Marketing Analyst
+BBA,Statistics,Strategic Marketing,9.33,"Excel, Google Analytics, SQL","Coursera Marketing, Excel Advanced, Data Analytics Certificate",4,Media,Marketing Analyst
+MSc,Statistics,Finance and Marketing,9,"Content Writing, Python, SEO, Google Analytics, Power BI",HubSpot Marketing,4,Retail,Marketing Analyst
+B.Tech,Marketing,Business Analytics,6.32,"Power BI, SEO, Excel, Google Analytics",Coursera Marketing,4,Retail,Marketing Analyst
+B.Com,Statistics,Finance and Marketing,9.12,"Communication, Python, SQL","Excel Advanced, Data Analytics Certificate, Google Ads",2,FMCG,Marketing Analyst
+B.Com,Data Science,Supply Chain and Marketing,8.03,"Python, Content Writing, Excel, Communication, SEO",Data Analytics Certificate,2,Retail,Marketing Analyst
+B.Tech,Computer Science,Marketing Management,9.05,"Power BI, Python, Content Writing",Udemy SEO Expert,3,E-commerce,Marketing Analyst
+BA,Data Science,International Business,9.91,"Power BI, SEO, Excel, SQL, Google Analytics","Excel Advanced, HubSpot Marketing",0,Consulting,Marketing Analyst
+MBA,Business Administration,Operations and Marketing,7.82,"Power BI, SQL, SEO, Excel, Marketing Strategy, Python",Meta Blueprint,4,Consulting,Marketing Analyst
+MSc,Finance,Business Analytics,8.04,"Marketing Strategy, Python, Excel","Meta Blueprint, Udemy SEO Expert, Power BI Certification, Excel Advanced",5,Finance,Marketing Analyst
+M.Com,Statistics,International Business,9.82,"Power BI, SEO, Excel, Communication, Marketing Strategy","Coursera Marketing, Google Ads",2,Finance,Marketing Analyst
+B.Tech,Finance,Business Analytics,8.24,"SQL, Google Analytics, Marketing Strategy","HubSpot Marketing, Google Ads",2,Healthcare,Marketing Analyst
+M.Com,Statistics,Finance and Marketing,7.3,"Marketing Strategy, Content Writing, Power BI, Excel, SEO","Coursera Marketing, Udemy SEO Expert, HubSpot Marketing",4,E-commerce,Marketing Analyst
+BA,Statistics,Finance and Marketing,9.24,"SEO, Marketing Strategy, Power BI, Python, Content Writing, Google Analytics",Coursera Marketing,2,E-commerce,Marketing Analyst
+MBA,Computer Science,E-commerce Management,7.86,"SEO, Communication, Google Analytics, Marketing Strategy, Power BI, SQL","Meta Blueprint, Coursera Marketing",2,Finance,Marketing Analyst
+BA,Marketing,Strategic Marketing,8.52,"Communication, Content Writing, Python, Marketing Strategy","Coursera Marketing, Excel Advanced",0,Healthcare,Marketing Analyst
+MBA,Business Administration,Operations and Marketing,6.86,"SQL, Communication, Power BI, Python, Content Writing","Coursera Marketing, Udemy SEO Expert",5,Finance,Marketing Analyst
+BSc,Data Science,Advertising and Brand Management,8.42,"Communication, Power BI, Google Analytics, SQL",Data Analytics Certificate,5,Retail,Marketing Analyst
+BBA,Finance,International Business,7.01,"Power BI, Google Analytics, Python, Content Writing, Marketing Strategy","Excel Advanced, Google Ads, Data Analytics Certificate, Power BI Certification",2,Media,Marketing Analyst
+M.Com,Economics,Supply Chain and Marketing,6.87,"Power BI, Excel, SQL","Meta Blueprint, Google Ads",5,Education,Marketing Analyst
+B.Tech,Data Science,Supply Chain and Marketing,9.56,"SQL, Communication, Google Analytics, Content Writing, SEO","Udemy SEO Expert, Meta Blueprint, Power BI Certification",2,Healthcare,Marketing Analyst
+BBA,Computer Science,Strategic Marketing,7.8,"Google Analytics, SEO, Communication",Excel Advanced,0,Finance,Marketing Analyst
+MSc,Computer Science,Business Analytics,8.18,"Communication, Marketing Strategy, Google Analytics, SEO, Python, Excel","Udemy SEO Expert, Meta Blueprint, Excel Advanced, HubSpot Marketing",2,Education,Marketing Analyst
+B.Tech,Finance,Supply Chain and Marketing,6.51,"Google Analytics, Python, SEO, Excel",Excel Advanced,4,Healthcare,Marketing Analyst
+BBA,Business Administration,Supply Chain and Marketing,6.92,"Excel, Content Writing, SQL, Marketing Strategy, Communication","HubSpot Marketing, Data Analytics Certificate, Meta Blueprint",1,Technology,Marketing Analyst
+BBA,Marketing,Data Analytics,7.78,"Google Analytics, Communication, Power BI, Python, SQL, Excel","Excel Advanced, Power BI Certification, HubSpot Marketing, Google Ads",4,Consulting,Marketing Analyst
+BBA,Statistics,Supply Chain and Marketing,8.66,"Power BI, Google Analytics, Excel, Content Writing, Communication","Data Analytics Certificate, Excel Advanced",1,Finance,Marketing Analyst
+BBA,Computer Science,Finance and Marketing,7.16,"SEO, Marketing Strategy, Content Writing","Meta Blueprint, Google Ads, Power BI Certification, Coursera Marketing",1,Media,Marketing Analyst
+B.Tech,Business Administration,Business Analytics,6.74,"Power BI, SQL, Content Writing","Google Ads, Power BI Certification, Excel Advanced",1,E-commerce,Marketing Analyst
+MSc,Economics,Advertising and Brand Management,9.9,"Excel, Power BI, Content Writing, Python, Marketing Strategy","Udemy SEO Expert, Excel Advanced, Google Ads",2,Finance,Marketing Analyst
+MBA,Data Science,Market Research and Consumer Behavior,8.98,"Python, Content Writing, Communication, Power BI, SEO","HubSpot Marketing, Power BI Certification, Data Analytics Certificate",2,Education,Marketing Analyst
+BBA,Computer Science,Market Research and Consumer Behavior,6.53,"SEO, Excel, Marketing Strategy","Excel Advanced, Meta Blueprint",0,Consulting,Marketing Analyst
+BA,Business Administration,Supply Chain and Marketing,6.55,"Excel, Marketing Strategy, SEO, Power BI, Python, SQL","Google Ads, Meta Blueprint",0,Retail,Marketing Analyst
+BA,Business Administration,Advertising and Brand Management,7.45,"Marketing Strategy, Communication, Content Writing, SEO, Power BI, SQL",Google Ads,4,Finance,Marketing Analyst
+M.Com,Computer Science,Marketing Management,6.41,"Communication, Content Writing, Google Analytics, Excel, SEO","Meta Blueprint, Google Ads, Udemy SEO Expert",0,Retail,Marketing Analyst
+MBA,Computer Science,International Business,7.38,"SQL, Excel, Python, Communication","Google Ads, Meta Blueprint",5,FMCG,Marketing Analyst
+B.Com,Data Science,Market Research and Consumer Behavior,9.54,"SEO, Communication, Google Analytics, Power BI",Coursera Marketing,0,Consulting,Marketing Analyst
+B.Com,Business Administration,International Business,8.46,"Excel, Marketing Strategy, Python, SQL",Excel Advanced,0,Media,Marketing Analyst
+BSc,Business Administration,E-commerce Management,7.29,"Marketing Strategy, Python, Excel, Power BI, SQL, Content Writing","HubSpot Marketing, Meta Blueprint, Excel Advanced, Google Ads",3,Education,Marketing Analyst
+B.Tech,Statistics,E-commerce Management,7.19,"Content Writing, Excel, Google Analytics, SEO",Excel Advanced,3,E-commerce,Marketing Analyst
+MBA,Business Administration,International Business,9.06,"Google Analytics, SQL, Excel, Communication, Content Writing, Python","Data Analytics Certificate, Power BI Certification",1,Retail,Marketing Analyst
+MSc,Marketing,Finance and Marketing,8.66,"Power BI, Content Writing, Python","Excel Advanced, Udemy SEO Expert, Google Ads, Data Analytics Certificate",2,Consulting,Marketing Analyst
+B.Tech,Statistics,E-commerce Management,7.96,"SQL, Excel, Communication, Marketing Strategy",Power BI Certification,4,Retail,Marketing Analyst
+B.Com,Computer Science,Data Analytics,6.7,"Content Writing, Power BI, SEO, Google Analytics, Python","Power BI Certification, Udemy SEO Expert, Excel Advanced",2,Retail,Marketing Analyst
+MBA,Economics,International Business,8.86,"SEO, Communication, Content Writing, Google Analytics",Udemy SEO Expert,4,E-commerce,Marketing Analyst
+BSc,Data Science,Strategic Marketing,8.07,"Communication, Python, Power BI, Marketing Strategy, Google Analytics, SQL","Google Ads, Udemy SEO Expert",1,Healthcare,Marketing Analyst
+BA,Statistics,E-commerce Management,8.07,"Python, Power BI, SQL, Content Writing",Google Ads,3,Retail,Marketing Analyst
+BSc,Data Science,Supply Chain and Marketing,8.56,"Content Writing, SEO, SQL, Excel, Power BI",Meta Blueprint,5,Healthcare,Marketing Analyst
+B.Com,Data Science,Finance and Marketing,7.5,"Python, Communication, Excel, SQL",Coursera Marketing,2,Education,Marketing Analyst
+B.Com,Statistics,E-commerce Management,9.29,"Google Analytics, Excel, SEO","Meta Blueprint, Power BI Certification",5,Healthcare,Marketing Analyst
+BBA,Marketing,Market Research and Consumer Behavior,7.35,"Content Writing, Marketing Strategy, Power BI, Google Analytics","Power BI Certification, Coursera Marketing, Meta Blueprint",5,Education,Marketing Analyst
+M.Com,Finance,Finance and Marketing,7.17,"Marketing Strategy, SEO, Communication, Content Writing, Python, SQL",Google Ads,1,Technology,Marketing Analyst
+B.Tech,Finance,International Business,7.48,"Python, Communication, Google Analytics, SQL, Marketing Strategy",Google Ads,4,Finance,Marketing Analyst
+MBA,Finance,Marketing Management,6.2,"Power BI, Google Analytics, SQL, Content Writing, Python, Communication","Data Analytics Certificate, HubSpot Marketing, Power BI Certification",4,Education,Marketing Analyst
+MSc,Marketing,Market Research and Consumer Behavior,9.51,"Communication, Content Writing, Python, SQL, Excel, Marketing Strategy","Meta Blueprint, Google Ads, HubSpot Marketing, Excel Advanced",1,Healthcare,Marketing Analyst
+B.Tech,Economics,E-commerce Management,9.43,"Content Writing, Marketing Strategy, Excel, SEO, Power BI, Communication","Power BI Certification, Google Ads, Excel Advanced, Meta Blueprint",5,Media,Marketing Analyst
+M.Com,Marketing,Strategic Marketing,9.87,"Power BI, Communication, Google Analytics, Content Writing","Udemy SEO Expert, Power BI Certification, Excel Advanced",5,Finance,Marketing Analyst
+MSc,Finance,Market Research and Consumer Behavior,6,"Google Analytics, SEO, Excel, SQL","Coursera Marketing, Data Analytics Certificate, Power BI Certification, Google Ads",4,Education,Marketing Analyst
+BBA,Finance,Data Analytics,9.45,"Marketing Strategy, Excel, Communication, Google Analytics","Google Ads, Data Analytics Certificate, HubSpot Marketing, Udemy SEO Expert",3,Technology,Marketing Analyst
+MBA,Statistics,Digital Marketing,6.84,"Power BI, Excel, Python, SQL, Content Writing, Google Analytics",Meta Blueprint,5,Finance,Marketing Analyst
+B.Com,Computer Science,Digital Marketing,6.33,"Communication, Excel, SQL",Coursera Marketing,3,Consulting,Marketing Analyst
+BBA,Data Science,Digital Marketing,9.67,"Marketing Strategy, Python, Power BI, Excel, SEO, Google Analytics","Google Ads, Excel Advanced",5,Healthcare,Marketing Analyst
+B.Tech,Statistics,Data Analytics,6.03,"Excel, Python, Power BI, Google Analytics, Content Writing, SEO","Udemy SEO Expert, Meta Blueprint, Data Analytics Certificate, Google Ads",3,Media,Marketing Analyst
+B.Com,Economics,Data Analytics,9.64,"Marketing Strategy, Python, Power BI",Excel Advanced,2,Consulting,Marketing Analyst
+BBA,Marketing,Marketing Management,6.81,"Python, Marketing Strategy, SQL, Content Writing, Communication, SEO",Power BI Certification,1,FMCG,Marketing Analyst
+B.Tech,Marketing,Business Analytics,8.57,"Communication, SQL, Google Analytics, Content Writing, Python, Power BI","Excel Advanced, HubSpot Marketing, Coursera Marketing, Google Ads",4,Finance,Marketing Analyst
+MSc,Finance,Advertising and Brand Management,6.29,"Communication, Excel, Google Analytics, Python",Excel Advanced,0,FMCG,Marketing Analyst
+B.Tech,Economics,Market Research and Consumer Behavior,7.43,"Content Writing, Google Analytics, SQL, Marketing Strategy, Communication, SEO","Excel Advanced, Data Analytics Certificate, Udemy SEO Expert",5,Consulting,Marketing Analyst
+BSc,Economics,Market Research and Consumer Behavior,9.15,"Python, SEO, Content Writing, Power BI, Marketing Strategy","HubSpot Marketing, Data Analytics Certificate, Excel Advanced, Udemy SEO Expert",3,Education,Marketing Analyst
+BBA,Business Administration,Strategic Marketing,7.76,"Communication, Google Analytics, Power BI","Coursera Marketing, Power BI Certification, HubSpot Marketing",0,E-commerce,Marketing Analyst
+BBA,Marketing,Advertising and Brand Management,9.43,"Power BI, Content Writing, Marketing Strategy, SQL, Communication","Data Analytics Certificate, HubSpot Marketing, Google Ads, Udemy SEO Expert",4,E-commerce,Marketing Analyst
+B.Com,Computer Science,Advertising and Brand Management,8.54,"Content Writing, Communication, Google Analytics, Power BI",Udemy SEO Expert,3,FMCG,Marketing Analyst
+MSc,Finance,International Business,9.19,"SQL, Power BI, SEO, Content Writing, Python","Udemy SEO Expert, Coursera Marketing, Excel Advanced, Meta Blueprint",5,FMCG,Marketing Analyst
+BSc,Business Administration,Supply Chain and Marketing,9.3,"Content Writing, Python, SEO, SQL, Excel, Power BI","Udemy SEO Expert, Data Analytics Certificate",0,Consulting,Marketing Analyst
+BA,Finance,Digital Marketing,8.55,"Marketing Strategy, Excel, SEO, Communication, Python","Meta Blueprint, Power BI Certification, Google Ads, Coursera Marketing",0,E-commerce,Marketing Analyst
+B.Com,Data Science,International Business,7.53,"Content Writing, Power BI, Communication, Google Analytics","Google Ads, Coursera Marketing, Power BI Certification, Data Analytics Certificate",1,E-commerce,Marketing Analyst
+B.Com,Business Administration,International Business,8.28,"Google Analytics, Marketing Strategy, Python","Data Analytics Certificate, HubSpot Marketing",5,Education,Marketing Analyst

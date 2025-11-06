@@ -1,0 +1,301 @@
+Degree,Major,Specialization,CGPA,Skills,Certification,Years of Experience,Preferred Industry,Job Role
+B.Tech,Business Administration,Risk Management,7.29,"Tableau, Finance Modeling",CFA Level 1,3,Banking,Financial Analyst
+B.Com,Management,Corporate Finance,9.48,"Excel, Financial Modeling",None,4,FinTech,Financial Analyst
+BA Economics,Management,Investment Banking,8.16,"Risk Assessment, Excel",Financial Analyst Certification,4,FinTech,Financial Analyst
+B.Tech,Accounting,Corporate Finance,7.31,"Excel, Financial Modeling",FRM,1,Insurance,Financial Analyst
+BA Economics,Accounting,Corporate Finance,9.48,"Python, Data Analysis",None,0,Investment Firms,Financial Analyst
+BBA,Economics,Financial Analysis,6.82,"SQL, Power BI",FRM,4,Finance,Financial Analyst
+MBA,Finance,Risk Management,7.75,"Python, Data Analysis",None,1,Banking,Financial Analyst
+BBA,Economics,Risk Management,6.79,"Excel, Financial Modeling",CFA Level 2,0,Investment Firms,Financial Analyst
+MBA,Accounting,Financial Analysis,6.98,"Python, Data Analysis",Financial Analyst Certification,2,Finance,Financial Analyst
+BBA,Business Administration,Risk Management,6.31,"Risk Assessment, Excel",Financial Analyst Certification,1,Investment Firms,Financial Analyst
+MBA,Business Administration,Investment Banking,7.01,"Risk Assessment, Excel",Financial Analyst Certification,0,Investment Firms,Financial Analyst
+BBA,Business Administration,Corporate Finance,9.44,"Excel, Financial Modeling",CFA Level 1,4,Insurance,Financial Analyst
+B.Tech,Economics,Financial Analysis,6.37,"Tableau, Finance Modeling",Financial Analyst Certification,4,Banking,Financial Analyst
+B.Com,Economics,Risk Management,6.43,"Python, Data Analysis",None,4,Finance,Financial Analyst
+B.Tech,Management,Corporate Finance,8.4,"SQL, Power BI",FRM,3,Finance,Financial Analyst
+BA Economics,Business Administration,Financial Analysis,6.74,"Python, Data Analysis",CFA Level 2,1,Banking,Financial Analyst
+BBA,Economics,Risk Management,9.06,"Risk Assessment, Excel",Financial Analyst Certification,1,Insurance,Financial Analyst
+MBA,Finance,Corporate Finance,7.84,"Risk Assessment, Excel",None,2,Investment Firms,Financial Analyst
+B.Tech,Accounting,Risk Management,9.34,"Python, Data Analysis",CFA Level 1,2,FinTech,Financial Analyst
+B.Com,Business Administration,Investment Banking,7.83,"Tableau, Finance Modeling",Financial Analyst Certification,4,Banking,Financial Analyst
+BA Economics,Management,Corporate Finance,8.65,"Excel, Financial Modeling",CFA Level 2,5,FinTech,Financial Analyst
+B.Com,Business Administration,Corporate Finance,8.83,"Excel, Financial Modeling",Financial Analyst Certification,3,Insurance,Financial Analyst
+BA Economics,Business Administration,Financial Analysis,7.18,"Tableau, Finance Modeling",CFA Level 2,3,Insurance,Financial Analyst
+B.Tech,Management,Investment Banking,7.23,"Risk Assessment, Excel",FRM,3,Finance,Financial Analyst
+B.Tech,Economics,Financial Analysis,7.65,"Risk Assessment, Excel",FRM,5,Finance,Financial Analyst
+B.Tech,Economics,Financial Analysis,6.1,"Python, Data Analysis",CFA Level 1,0,FinTech,Financial Analyst
+B.Tech,Finance,Corporate Finance,6.48,"Risk Assessment, Excel",FRM,2,Banking,Financial Analyst
+BA Economics,Management,Financial Analysis,7.89,"Excel, Financial Modeling",None,5,FinTech,Financial Analyst
+B.Com,Economics,Risk Management,6.62,"SQL, Power BI",None,1,Banking,Financial Analyst
+BA Economics,Economics,Investment Banking,6.62,"Tableau, Finance Modeling",CFA Level 2,4,Investment Firms,Financial Analyst
+BA Economics,Finance,Risk Management,9.45,"Python, Data Analysis",FRM,1,Finance,Financial Analyst
+MBA,Business Administration,Investment Banking,7.24,"Excel, Financial Modeling",None,1,Investment Firms,Financial Analyst
+B.Tech,Management,Corporate Finance,7.41,"Python, Data Analysis",Financial Analyst Certification,0,Investment Firms,Financial Analyst
+B.Tech,Management,Corporate Finance,9.56,"Risk Assessment, Excel",None,4,FinTech,Financial Analyst
+MBA,Economics,Risk Management,9.21,"Tableau, Finance Modeling",None,1,Banking,Financial Analyst
+MBA,Finance,Corporate Finance,9.04,"Risk Assessment, Excel",CFA Level 1,3,FinTech,Financial Analyst
+BA Economics,Economics,Investment Banking,8.87,"Excel, Financial Modeling",Financial Analyst Certification,5,Insurance,Financial Analyst
+BBA,Finance,Corporate Finance,9.83,"SQL, Power BI",FRM,0,Banking,Financial Analyst
+B.Com,Business Administration,Risk Management,8.82,"Risk Assessment, Excel",FRM,5,Banking,Financial Analyst
+B.Com,Accounting,Risk Management,9.04,"SQL, Power BI",CFA Level 1,5,FinTech,Financial Analyst
+MBA,Economics,Corporate Finance,8.23,"Python, Data Analysis",FRM,3,Insurance,Financial Analyst
+B.Tech,Management,Corporate Finance,7.96,"Python, Data Analysis",Financial Analyst Certification,0,Insurance,Financial Analyst
+MBA,Economics,Risk Management,7.33,"Tableau, Finance Modeling",Financial Analyst Certification,3,Insurance,Financial Analyst
+B.Com,Finance,Investment Banking,7.42,"Tableau, Finance Modeling",FRM,3,Finance,Financial Analyst
+BA Economics,Finance,Risk Management,8.49,"SQL, Power BI",Financial Analyst Certification,0,Investment Firms,Financial Analyst
+MBA,Economics,Investment Banking,6.61,"Risk Assessment, Excel",Financial Analyst Certification,1,FinTech,Financial Analyst
+B.Com,Management,Corporate Finance,9.3,"Tableau, Finance Modeling",Financial Analyst Certification,3,FinTech,Financial Analyst
+B.Tech,Accounting,Corporate Finance,9.46,"Tableau, Finance Modeling",CFA Level 1,5,Investment Firms,Financial Analyst
+MBA,Management,Risk Management,7.61,"SQL, Power BI",Financial Analyst Certification,4,Banking,Financial Analyst
+MBA,Finance,Financial Analysis,9.13,"Risk Assessment, Excel",CFA Level 1,5,Finance,Financial Analyst
+MBA,Business Administration,Risk Management,9.19,"Tableau, Finance Modeling",CFA Level 1,2,Finance,Financial Analyst
+B.Tech,Business Administration,Risk Management,6.65,"Risk Assessment, Excel",Financial Analyst Certification,3,FinTech,Financial Analyst
+B.Tech,Management,Corporate Finance,6.45,"Risk Assessment, Excel",None,4,Insurance,Financial Analyst
+BBA,Accounting,Financial Analysis,9.81,"Python, Data Analysis",Financial Analyst Certification,4,Finance,Financial Analyst
+MBA,Management,Financial Analysis,8.91,"Excel, Financial Modeling",Financial Analyst Certification,0,Finance,Financial Analyst
+BA Economics,Management,Financial Analysis,8.71,"SQL, Power BI",None,1,Banking,Financial Analyst
+BA Economics,Business Administration,Risk Management,8.07,"SQL, Power BI",None,1,FinTech,Financial Analyst
+MBA,Finance,Investment Banking,8.06,"SQL, Power BI",CFA Level 1,1,FinTech,Financial Analyst
+B.Com,Finance,Risk Management,9.03,"Risk Assessment, Excel",FRM,3,Finance,Financial Analyst
+B.Com,Management,Risk Management,7.06,"Python, Data Analysis",CFA Level 1,1,Investment Firms,Financial Analyst
+B.Tech,Finance,Financial Analysis,9.64,"SQL, Power BI",CFA Level 1,4,FinTech,Financial Analyst
+BA Economics,Finance,Financial Analysis,10.0,"Risk Assessment, Excel",CFA Level 2,4,Investment Firms,Financial Analyst
+B.Tech,Management,Financial Analysis,6.75,"Excel, Financial Modeling",None,1,Banking,Financial Analyst
+BA Economics,Economics,Investment Banking,6.28,"Risk Assessment, Excel",Financial Analyst Certification,4,Finance,Financial Analyst
+B.Com,Management,Corporate Finance,7.5,"SQL, Power BI",CFA Level 1,2,FinTech,Financial Analyst
+BA Economics,Management,Investment Banking,8.32,"Risk Assessment, Excel",Financial Analyst Certification,1,Insurance,Financial Analyst
+BA Economics,Business Administration,Corporate Finance,6.26,"Python, Data Analysis",CFA Level 2,1,FinTech,Financial Analyst
+B.Tech,Finance,Corporate Finance,8.65,"Python, Data Analysis",CFA Level 1,5,Finance,Financial Analyst
+BBA,Accounting,Risk Management,6.73,"SQL, Power BI",Financial Analyst Certification,2,Insurance,Financial Analyst
+B.Com,Management,Financial Analysis,7.35,"Excel, Financial Modeling",CFA Level 1,4,FinTech,Financial Analyst
+B.Com,Finance,Corporate Finance,8.22,"Python, Data Analysis",Financial Analyst Certification,0,FinTech,Financial Analyst
+B.Com,Management,Risk Management,7.35,"Python, Data Analysis",CFA Level 1,4,Investment Firms,Financial Analyst
+BBA,Business Administration,Corporate Finance,7.34,"Excel, Financial Modeling",CFA Level 1,3,Banking,Financial Analyst
+MBA,Economics,Risk Management,8.2,"Tableau, Finance Modeling",Financial Analyst Certification,1,FinTech,Financial Analyst
+B.Tech,Business Administration,Corporate Finance,7.26,"Risk Assessment, Excel",CFA Level 2,0,FinTech,Financial Analyst
+MBA,Finance,Risk Management,9.39,"Excel, Financial Modeling",FRM,0,Insurance,Financial Analyst
+BA Economics,Business Administration,Investment Banking,9.74,"Python, Data Analysis",CFA Level 2,3,Finance,Financial Analyst
+B.Com,Accounting,Financial Analysis,8.82,"SQL, Power BI",None,2,Investment Firms,Financial Analyst
+MBA,Finance,Financial Analysis,9.24,"Excel, Financial Modeling",None,4,FinTech,Financial Analyst
+B.Com,Finance,Investment Banking,6.01,"Python, Data Analysis",FRM,3,Investment Firms,Financial Analyst
+BA Economics,Finance,Risk Management,7.79,"Risk Assessment, Excel",CFA Level 2,2,Finance,Financial Analyst
+BBA,Finance,Investment Banking,6.73,"Python, Data Analysis",CFA Level 2,0,Finance,Financial Analyst
+B.Tech,Business Administration,Risk Management,9.5,"Excel, Financial Modeling",CFA Level 2,1,Finance,Financial Analyst
+B.Tech,Accounting,Investment Banking,7.12,"Python, Data Analysis",Financial Analyst Certification,0,Finance,Financial Analyst
+BA Economics,Business Administration,Investment Banking,9.66,"Python, Data Analysis",CFA Level 1,1,Banking,Financial Analyst
+B.Com,Finance,Investment Banking,8.19,"Risk Assessment, Excel",CFA Level 1,5,Banking,Financial Analyst
+B.Com,Finance,Corporate Finance,8.74,"Python, Data Analysis",FRM,5,Banking,Financial Analyst
+B.Tech,Finance,Financial Analysis,6.79,"Tableau, Finance Modeling",CFA Level 1,0,Banking,Financial Analyst
+BBA,Finance,Corporate Finance,8.85,"Tableau, Finance Modeling",CFA Level 2,1,Finance,Financial Analyst
+BA Economics,Economics,Risk Management,8.59,"SQL, Power BI",None,5,Banking,Financial Analyst
+B.Tech,Accounting,Risk Management,7.2,"Excel, Financial Modeling",CFA Level 2,4,Insurance,Financial Analyst
+B.Tech,Business Administration,Financial Analysis,7.17,"Tableau, Finance Modeling",Financial Analyst Certification,4,Insurance,Financial Analyst
+MBA,Business Administration,Investment Banking,8.48,"Excel, Financial Modeling",CFA Level 2,3,Banking,Financial Analyst
+B.Com,Economics,Investment Banking,8.02,"SQL, Power BI",CFA Level 2,0,FinTech,Financial Analyst
+BA Economics,Management,Risk Management,8.75,"Tableau, Finance Modeling",CFA Level 2,4,Finance,Financial Analyst
+B.Com,Management,Financial Analysis,7.78,"Risk Assessment, Excel",FRM,4,Finance,Financial Analyst
+B.Tech,Accounting,Risk Management,6.4,"Python, Data Analysis",Financial Analyst Certification,5,FinTech,Financial Analyst
+MBA,Finance,Financial Analysis,7.9,"Tableau, Finance Modeling",FRM,5,Insurance,Financial Analyst
+B.Tech,Management,Investment Banking,9.19,"SQL, Power BI",CFA Level 1,4,Finance,Financial Analyst
+B.Com,Business Administration,Financial Analysis,9.77,"Risk Assessment, Excel",None,4,FinTech,Financial Analyst
+B.Tech,Accounting,Corporate Finance,8.68,"Excel, Financial Modeling",None,1,FinTech,Financial Analyst
+MBA,Economics,Risk Management,7.82,"Tableau, Finance Modeling",Financial Analyst Certification,3,FinTech,Financial Analyst
+B.Tech,Accounting,Corporate Finance,9.34,"Python, Data Analysis",FRM,4,Finance,Financial Analyst
+BA Economics,Finance,Corporate Finance,7.73,"Risk Assessment, Excel",None,0,Finance,Financial Analyst
+BA Economics,Accounting,Risk Management,7.23,"SQL, Power BI",CFA Level 1,2,Insurance,Financial Analyst
+B.Tech,Economics,Financial Analysis,7.68,"Python, Data Analysis",Financial Analyst Certification,0,Banking,Financial Analyst
+B.Tech,Economics,Corporate Finance,8.89,"Tableau, Finance Modeling",CFA Level 1,4,Investment Firms,Financial Analyst
+BA Economics,Business Administration,Corporate Finance,9.0,"Python, Data Analysis",FRM,1,Finance,Financial Analyst
+B.Tech,Economics,Risk Management,9.48,"Python, Data Analysis",CFA Level 1,1,FinTech,Financial Analyst
+B.Tech,Business Administration,Financial Analysis,9.42,"Python, Data Analysis",CFA Level 1,1,Investment Firms,Financial Analyst
+BBA,Economics,Corporate Finance,7.35,"SQL, Power BI",Financial Analyst Certification,2,FinTech,Financial Analyst
+BBA,Economics,Corporate Finance,7.01,"Python, Data Analysis",Financial Analyst Certification,5,FinTech,Financial Analyst
+B.Com,Accounting,Investment Banking,6.61,"Risk Assessment, Excel",CFA Level 1,1,Investment Firms,Financial Analyst
+B.Tech,Finance,Corporate Finance,7.8,"Excel, Financial Modeling",None,5,Insurance,Financial Analyst
+B.Tech,Economics,Risk Management,6.25,"Tableau, Finance Modeling",CFA Level 2,5,FinTech,Financial Analyst
+BA Economics,Accounting,Investment Banking,9.79,"SQL, Power BI",CFA Level 2,5,Investment Firms,Financial Analyst
+MBA,Management,Investment Banking,7.6,"Risk Assessment, Excel",None,0,Banking,Financial Analyst
+B.Com,Economics,Corporate Finance,7.99,"Python, Data Analysis",CFA Level 2,2,Banking,Financial Analyst
+BBA,Business Administration,Financial Analysis,7.4,"Risk Assessment, Excel",CFA Level 2,2,Banking,Financial Analyst
+BA Economics,Economics,Financial Analysis,8.03,"Risk Assessment, Excel",Financial Analyst Certification,0,Finance,Financial Analyst
+BBA,Finance,Investment Banking,6.13,"Tableau, Finance Modeling",CFA Level 2,5,Investment Firms,Financial Analyst
+BBA,Accounting,Corporate Finance,7.28,"Tableau, Finance Modeling",None,2,FinTech,Financial Analyst
+MBA,Economics,Risk Management,7.89,"Python, Data Analysis",Financial Analyst Certification,3,Investment Firms,Financial Analyst
+BBA,Economics,Risk Management,9.19,"Risk Assessment, Excel",FRM,0,FinTech,Financial Analyst
+MBA,Finance,Investment Banking,9.99,"Tableau, Finance Modeling",Financial Analyst Certification,5,Finance,Financial Analyst
+BA Economics,Economics,Financial Analysis,8.76,"SQL, Power BI",FRM,4,FinTech,Financial Analyst
+BA Economics,Management,Financial Analysis,6.92,"SQL, Power BI",CFA Level 1,4,Investment Firms,Financial Analyst
+BBA,Accounting,Investment Banking,7.93,"Tableau, Finance Modeling",None,5,Banking,Financial Analyst
+BBA,Business Administration,Financial Analysis,9.27,"Tableau, Finance Modeling",Financial Analyst Certification,2,Finance,Financial Analyst
+MBA,Economics,Corporate Finance,8.41,"Excel, Financial Modeling",CFA Level 2,0,Insurance,Financial Analyst
+B.Com,Accounting,Investment Banking,8.69,"Tableau, Finance Modeling",CFA Level 2,0,Insurance,Financial Analyst
+BA Economics,Business Administration,Risk Management,6.87,"Risk Assessment, Excel",Financial Analyst Certification,5,Investment Firms,Financial Analyst
+BBA,Accounting,Financial Analysis,9.1,"Python, Data Analysis",CFA Level 2,0,FinTech,Financial Analyst
+MBA,Finance,Corporate Finance,8.02,"Risk Assessment, Excel",None,2,Investment Firms,Financial Analyst
+MBA,Finance,Risk Management,7.68,"Tableau, Finance Modeling",CFA Level 2,1,Insurance,Financial Analyst
+MBA,Accounting,Financial Analysis,7.04,"SQL, Power BI",FRM,3,Finance,Financial Analyst
+BBA,Accounting,Financial Analysis,6.99,"Excel, Financial Modeling",FRM,1,FinTech,Financial Analyst
+BA Economics,Economics,Investment Banking,6.01,"Python, Data Analysis",Financial Analyst Certification,1,Investment Firms,Financial Analyst
+BA Economics,Management,Financial Analysis,7.68,"Tableau, Finance Modeling",FRM,5,Banking,Financial Analyst
+B.Tech,Management,Risk Management,7.9,"SQL, Power BI",FRM,4,Investment Firms,Financial Analyst
+B.Tech,Business Administration,Financial Analysis,6.19,"Risk Assessment, Excel",None,5,FinTech,Financial Analyst
+MBA,Accounting,Financial Analysis,9.62,"Tableau, Finance Modeling",FRM,3,Insurance,Financial Analyst
+BBA,Finance,Financial Analysis,6.99,"Risk Assessment, Excel",None,3,Insurance,Financial Analyst
+MBA,Economics,Corporate Finance,6.76,"Risk Assessment, Excel",CFA Level 2,4,Banking,Financial Analyst
+MBA,Economics,Financial Analysis,8.18,"Excel, Financial Modeling",None,0,FinTech,Financial Analyst
+MBA,Business Administration,Investment Banking,6.7,"Tableau, Finance Modeling",FRM,2,Insurance,Financial Analyst
+B.Com,Finance,Investment Banking,7.04,"Excel, Financial Modeling",CFA Level 2,0,Banking,Financial Analyst
+BA Economics,Management,Investment Banking,6.17,"Tableau, Finance Modeling",FRM,1,Banking,Financial Analyst
+BBA,Management,Risk Management,6.99,"Python, Data Analysis",CFA Level 2,5,Banking,Financial Analyst
+B.Com,Economics,Risk Management,7.04,"Python, Data Analysis",Financial Analyst Certification,5,Banking,Financial Analyst
+B.Tech,Accounting,Business Strategy,9.28,"A/B Testing, User Research",None,3,Consulting,Product Manager
+B.Com,Economics,Product Management,8.03,"Product Strategy, Roadmapping",Scrum Master,2,Consulting,Product Manager
+BBA,Accounting,Tech Product,9.39,"Data Analytics, JIRA",Scrum Master,1,Consulting,Product Manager
+MBA,Finance,Business Strategy,8.9,"A/B Testing, User Research",Google PM Certificate,4,Tech,Product Manager
+MBA,Business Administration,Marketing,8.71,"Data Analytics, JIRA",Product Management Certificate,1,Startup,Product Manager
+B.Com,Accounting,Business Strategy,9.93,"Product Strategy, Roadmapping",Scrum Master,2,Consulting,Product Manager
+BBA,Economics,Business Strategy,6.9,"Product Strategy, Roadmapping",Product Management Certificate,0,FinTech,Product Manager
+BBA,Business Administration,Marketing,7.91,"Product Strategy, Roadmapping",Scrum Master,3,E-commerce,Product Manager
+MBA,Economics,Business Strategy,7.4,"Product Strategy, Roadmapping",Agile Certification,1,Consulting,Product Manager
+BBA,Accounting,Tech Product,6.98,"A/B Testing, User Research",Product Management Certificate,3,E-commerce,Product Manager
+MBA,Finance,Marketing,7.7,"Product Strategy, Roadmapping",Product Management Certificate,5,Tech,Product Manager
+MBA,Finance,Business Strategy,9.91,"Wireframing, UX",Agile Certification,4,E-commerce,Product Manager
+B.Tech,Management,Product Management,8.9,"Agile, Market Analysis",Product Management Certificate,5,Consulting,Product Manager
+BBA,Economics,Tech Product,7.68,"Data Analytics, JIRA",Agile Certification,1,Tech,Product Manager
+BBA,Finance,Product Management,7.3,"Wireframing, UX",Product Management Certificate,2,E-commerce,Product Manager
+MBA,Economics,Marketing,6.24,"Product Strategy, Roadmapping",Agile Certification,4,Startup,Product Manager
+B.Tech,Accounting,Tech Product,8.67,"Product Strategy, Roadmapping",Agile Certification,0,E-commerce,Product Manager
+MBA,Economics,Business Strategy,6.31,"Product Strategy, Roadmapping",Product Management Certificate,3,Startup,Product Manager
+B.Tech,Economics,Marketing,8.88,"Wireframing, UX",Google PM Certificate,1,FinTech,Product Manager
+BA Economics,Management,Tech Product,7.23,"Product Strategy, Roadmapping",Product Management Certificate,2,E-commerce,Product Manager
+BA Economics,Economics,Business Strategy,7.28,"Data Analytics, JIRA",Scrum Master,4,Startup,Product Manager
+B.Com,Accounting,Marketing,6.89,"Wireframing, UX",Agile Certification,4,Tech,Product Manager
+BBA,Business Administration,Tech Product,7.5,"Agile, Market Analysis",Scrum Master,5,Tech,Product Manager
+BBA,Management,Marketing,9.75,"Agile, Market Analysis",Product Management Certificate,0,Tech,Product Manager
+MBA,Economics,Marketing,7.2,"Agile, Market Analysis",Agile Certification,0,Startup,Product Manager
+B.Com,Management,Marketing,6.83,"A/B Testing, User Research",Product Management Certificate,4,Consulting,Product Manager
+BBA,Economics,Business Strategy,8.02,"Data Analytics, JIRA",None,3,Tech,Product Manager
+B.Com,Business Administration,Product Management,7.81,"Product Strategy, Roadmapping",Scrum Master,0,Startup,Product Manager
+MBA,Accounting,Marketing,6.67,"Agile, Market Analysis",Product Management Certificate,1,Tech,Product Manager
+BBA,Management,Marketing,9.64,"Wireframing, UX",Scrum Master,4,Tech,Product Manager
+BBA,Business Administration,Product Management,7.76,"Wireframing, UX",Product Management Certificate,5,FinTech,Product Manager
+B.Tech,Accounting,Business Strategy,7.62,"Product Strategy, Roadmapping",Google PM Certificate,0,E-commerce,Product Manager
+BA Economics,Management,Marketing,9.05,"A/B Testing, User Research",Agile Certification,5,Tech,Product Manager
+MBA,Accounting,Business Strategy,9.39,"Data Analytics, JIRA",Scrum Master,2,Tech,Product Manager
+BA Economics,Finance,Marketing,9.96,"Agile, Market Analysis",Product Management Certificate,4,E-commerce,Product Manager
+BBA,Finance,Product Management,8.88,"Product Strategy, Roadmapping",Agile Certification,2,Consulting,Product Manager
+BBA,Management,Product Management,7.51,"Wireframing, UX",Agile Certification,2,FinTech,Product Manager
+B.Tech,Management,Product Management,9.81,"A/B Testing, User Research",Google PM Certificate,0,E-commerce,Product Manager
+B.Tech,Management,Business Strategy,7.27,"Agile, Market Analysis",Agile Certification,5,FinTech,Product Manager
+B.Tech,Business Administration,Tech Product,7.85,"Product Strategy, Roadmapping",Agile Certification,1,FinTech,Product Manager
+B.Tech,Finance,Tech Product,8.85,"Data Analytics, JIRA",Google PM Certificate,5,Tech,Product Manager
+BBA,Finance,Product Management,7.35,"Product Strategy, Roadmapping",Scrum Master,4,FinTech,Product Manager
+BBA,Business Administration,Business Strategy,6.29,"Wireframing, UX",Agile Certification,4,Tech,Product Manager
+BBA,Finance,Tech Product,7.29,"Data Analytics, JIRA",None,1,Tech,Product Manager
+BA Economics,Finance,Business Strategy,8.18,"Data Analytics, JIRA",Product Management Certificate,3,E-commerce,Product Manager
+MBA,Accounting,Marketing,8.37,"A/B Testing, User Research",None,1,FinTech,Product Manager
+MBA,Accounting,Business Strategy,9.26,"Product Strategy, Roadmapping",None,0,Consulting,Product Manager
+B.Com,Finance,Product Management,8.56,"Wireframing, UX",Google PM Certificate,5,E-commerce,Product Manager
+BBA,Business Administration,Product Management,9.1,"Data Analytics, JIRA",Agile Certification,1,E-commerce,Product Manager
+BA Economics,Accounting,Tech Product,8.99,"Agile, Market Analysis",Google PM Certificate,0,Consulting,Product Manager
+BBA,Management,Tech Product,6.05,"Data Analytics, JIRA",Product Management Certificate,5,Startup,Product Manager
+B.Com,Economics,Business Strategy,7.05,"A/B Testing, User Research",None,3,Tech,Product Manager
+BBA,Accounting,Marketing,7.14,"Wireframing, UX",None,4,Tech,Product Manager
+BA Economics,Finance,Marketing,6.11,"Agile, Market Analysis",Product Management Certificate,1,E-commerce,Product Manager
+BBA,Business Administration,Product Management,9.47,"Data Analytics, JIRA",None,3,Tech,Product Manager
+BBA,Economics,Marketing,9.43,"Wireframing, UX",Scrum Master,3,Tech,Product Manager
+BA Economics,Finance,Product Management,7.52,"A/B Testing, User Research",None,5,E-commerce,Product Manager
+BBA,Accounting,Product Management,8.62,"Agile, Market Analysis",None,0,Consulting,Product Manager
+B.Tech,Business Administration,Business Strategy,8.73,"Agile, Market Analysis",None,0,FinTech,Product Manager
+MBA,Economics,Product Management,8.55,"Wireframing, UX",None,5,Consulting,Product Manager
+BBA,Business Administration,Marketing,8.56,"Agile, Market Analysis",Google PM Certificate,4,Tech,Product Manager
+B.Com,Accounting,Business Strategy,8.88,"A/B Testing, User Research",Product Management Certificate,1,Startup,Product Manager
+MBA,Accounting,Marketing,7.14,"A/B Testing, User Research",None,5,Startup,Product Manager
+BA Economics,Economics,Tech Product,8.66,"Data Analytics, JIRA",Agile Certification,3,Tech,Product Manager
+B.Tech,Business Administration,Tech Product,8.65,"Wireframing, UX",None,5,FinTech,Product Manager
+B.Com,Management,Business Strategy,9.69,"Data Analytics, JIRA",Scrum Master,0,Consulting,Product Manager
+MBA,Business Administration,Tech Product,6.19,"Product Strategy, Roadmapping",Scrum Master,5,FinTech,Product Manager
+B.Com,Economics,Tech Product,7.77,"A/B Testing, User Research",Google PM Certificate,1,Tech,Product Manager
+B.Com,Management,Product Management,8.35,"A/B Testing, User Research",Google PM Certificate,5,Consulting,Product Manager
+B.Tech,Finance,Tech Product,7.8,"A/B Testing, User Research",Agile Certification,2,Tech,Product Manager
+BA Economics,Management,Business Strategy,6.26,"Data Analytics, JIRA",Product Management Certificate,1,E-commerce,Product Manager
+B.Com,Economics,Marketing,7.91,"Data Analytics, JIRA",Scrum Master,5,Consulting,Product Manager
+BBA,Economics,Business Strategy,7.95,"Data Analytics, JIRA",Agile Certification,5,Consulting,Product Manager
+BA Economics,Finance,Business Strategy,7.16,"A/B Testing, User Research",None,5,FinTech,Product Manager
+MBA,Management,Marketing,7.18,"Data Analytics, JIRA",Product Management Certificate,2,Consulting,Product Manager
+BBA,Economics,Marketing,8.95,"Data Analytics, JIRA",Product Management Certificate,2,E-commerce,Product Manager
+BA Economics,Finance,Marketing,9.91,"Wireframing, UX",Scrum Master,3,Tech,Product Manager
+BA Economics,Finance,Business Strategy,9.57,"Product Strategy, Roadmapping",Google PM Certificate,3,Startup,Product Manager
+B.Tech,Accounting,Tech Product,6.79,"A/B Testing, User Research",None,2,Consulting,Product Manager
+B.Tech,Accounting,Product Management,9.01,"A/B Testing, User Research",None,5,Tech,Product Manager
+BBA,Economics,Business Strategy,7.71,"Agile, Market Analysis",Agile Certification,4,Tech,Product Manager
+BA Economics,Management,Marketing,6.87,"Product Strategy, Roadmapping",None,4,FinTech,Product Manager
+BBA,Business Administration,Tech Product,6.68,"Product Strategy, Roadmapping",Google PM Certificate,2,Tech,Product Manager
+BBA,Accounting,Product Management,8.41,"Data Analytics, JIRA",None,1,Consulting,Product Manager
+B.Tech,Economics,Product Management,7.3,"Agile, Market Analysis",Scrum Master,5,E-commerce,Product Manager
+BA Economics,Economics,Business Strategy,7.94,"Product Strategy, Roadmapping",Scrum Master,4,Tech,Product Manager
+BBA,Economics,Tech Product,7.54,"Agile, Market Analysis",None,2,Consulting,Product Manager
+B.Tech,Finance,Marketing,6.75,"Wireframing, UX",Product Management Certificate,3,E-commerce,Product Manager
+B.Com,Finance,Business Strategy,7.47,"Product Strategy, Roadmapping",Agile Certification,4,FinTech,Product Manager
+MBA,Finance,Product Management,8.94,"Wireframing, UX",Scrum Master,0,Consulting,Product Manager
+B.Tech,Management,Marketing,8.51,"Agile, Market Analysis",Scrum Master,3,FinTech,Product Manager
+BBA,Accounting,Product Management,7.42,"Agile, Market Analysis",Scrum Master,5,FinTech,Product Manager
+B.Tech,Economics,Marketing,6.27,"Wireframing, UX",Scrum Master,0,E-commerce,Product Manager
+B.Tech,Management,Product Management,6.13,"Wireframing, UX",None,0,FinTech,Product Manager
+BA Economics,Business Administration,Business Strategy,9.21,"Wireframing, UX",Product Management Certificate,5,FinTech,Product Manager
+BA Economics,Business Administration,Product Management,6.3,"Wireframing, UX",Google PM Certificate,4,E-commerce,Product Manager
+BA Economics,Finance,Tech Product,8.77,"Agile, Market Analysis",None,3,Startup,Product Manager
+B.Tech,Business Administration,Business Strategy,8.93,"A/B Testing, User Research",Product Management Certificate,4,Consulting,Product Manager
+BA Economics,Management,Product Management,6.41,"A/B Testing, User Research",Scrum Master,3,Startup,Product Manager
+B.Com,Business Administration,Product Management,8.96,"Data Analytics, JIRA",Agile Certification,1,Startup,Product Manager
+BBA,Accounting,Tech Product,6.87,"Wireframing, UX",Product Management Certificate,1,Consulting,Product Manager
+B.Com,Finance,Tech Product,8.67,"Agile, Market Analysis",Product Management Certificate,0,Startup,Product Manager
+BBA,Finance,Product Management,7.73,"Wireframing, UX",Agile Certification,1,E-commerce,Product Manager
+MBA,Economics,Product Management,9.8,"Wireframing, UX",Google PM Certificate,3,E-commerce,Product Manager
+BA Economics,Finance,Business Strategy,7.36,"Data Analytics, JIRA",Product Management Certificate,4,Startup,Product Manager
+MBA,Business Administration,Tech Product,9.77,"Wireframing, UX",None,0,Tech,Product Manager
+BBA,Accounting,Tech Product,9.22,"Agile, Market Analysis",None,1,Tech,Product Manager
+B.Com,Finance,Tech Product,7.14,"Data Analytics, JIRA",Google PM Certificate,4,E-commerce,Product Manager
+BBA,Accounting,Tech Product,8.38,"Product Strategy, Roadmapping",Google PM Certificate,2,E-commerce,Product Manager
+MBA,Management,Marketing,7.16,"Product Strategy, Roadmapping",Agile Certification,0,E-commerce,Product Manager
+BA Economics,Management,Tech Product,9.97,"Product Strategy, Roadmapping",Google PM Certificate,4,Consulting,Product Manager
+B.Tech,Economics,Marketing,7.44,"Agile, Market Analysis",Google PM Certificate,5,Tech,Product Manager
+BA Economics,Business Administration,Product Management,7.3,"A/B Testing, User Research",Agile Certification,3,E-commerce,Product Manager
+BBA,Business Administration,Tech Product,9.23,"A/B Testing, User Research",Agile Certification,1,Tech,Product Manager
+MBA,Accounting,Product Management,8.07,"Wireframing, UX",Scrum Master,3,Consulting,Product Manager
+MBA,Economics,Product Management,7.91,"Product Strategy, Roadmapping",None,4,E-commerce,Product Manager
+MBA,Economics,Business Strategy,7.18,"Agile, Market Analysis",None,5,Tech,Product Manager
+BBA,Economics,Marketing,8.1,"Wireframing, UX",Product Management Certificate,0,Consulting,Product Manager
+BBA,Economics,Tech Product,8.73,"Data Analytics, JIRA",Product Management Certificate,2,Startup,Product Manager
+B.Com,Management,Tech Product,9.77,"Product Strategy, Roadmapping",Product Management Certificate,4,Consulting,Product Manager
+MBA,Finance,Marketing,7.29,"Agile, Market Analysis",Google PM Certificate,5,FinTech,Product Manager
+BA Economics,Management,Tech Product,9.13,"Wireframing, UX",Scrum Master,5,Consulting,Product Manager
+BA Economics,Management,Marketing,8.6,"Data Analytics, JIRA",Google PM Certificate,2,Tech,Product Manager
+MBA,Accounting,Product Management,9.55,"Product Strategy, Roadmapping",None,1,E-commerce,Product Manager
+BBA,Economics,Tech Product,7.67,"Product Strategy, Roadmapping",None,4,Startup,Product Manager
+B.Tech,Economics,Marketing,8.26,"A/B Testing, User Research",Agile Certification,2,Startup,Product Manager
+BBA,Economics,Product Management,8.17,"Data Analytics, JIRA",Scrum Master,0,Consulting,Product Manager
+B.Com,Business Administration,Marketing,9.67,"A/B Testing, User Research",Scrum Master,5,FinTech,Product Manager
+B.Com,Economics,Product Management,7.92,"Wireframing, UX",Product Management Certificate,3,FinTech,Product Manager
+B.Com,Accounting,Tech Product,8.35,"Agile, Market Analysis",None,0,Startup,Product Manager
+MBA,Business Administration,Business Strategy,7.92,"A/B Testing, User Research",None,5,Consulting,Product Manager
+BBA,Accounting,Marketing,6.42,"Product Strategy, Roadmapping",Product Management Certificate,3,FinTech,Product Manager
+B.Tech,Management,Product Management,9.66,"Wireframing, UX",Product Management Certificate,4,Tech,Product Manager
+BA Economics,Finance,Marketing,9.71,"Wireframing, UX",Google PM Certificate,2,Tech,Product Manager
+BBA,Finance,Product Management,7.52,"Wireframing, UX",Google PM Certificate,1,FinTech,Product Manager
+MBA,Business Administration,Tech Product,9.65,"Agile, Market Analysis",Google PM Certificate,0,Startup,Product Manager
+B.Tech,Business Administration,Tech Product,6.67,"Wireframing, UX",None,1,FinTech,Product Manager
+BBA,Finance,Product Management,9.82,"Product Strategy, Roadmapping",None,2,Consulting,Product Manager
+B.Com,Management,Business Strategy,6.86,"A/B Testing, User Research",Scrum Master,5,Tech,Product Manager
+MBA,Business Administration,Business Strategy,6.06,"A/B Testing, User Research",Product Management Certificate,3,Tech,Product Manager
+B.Com,Economics,Product Management,6.59,"Data Analytics, JIRA",Product Management Certificate,1,Consulting,Product Manager
+BBA,Economics,Marketing,7.87,"Product Strategy, Roadmapping",Google PM Certificate,0,E-commerce,Product Manager
+BA Economics,Management,Tech Product,7.86,"A/B Testing, User Research",None,5,E-commerce,Product Manager
+BA Economics,Business Administration,Tech Product,9.53,"Wireframing, UX",Google PM Certificate,0,FinTech,Product Manager
+B.Com,Business Administration,Marketing,6.74,"A/B Testing, User Research",Google PM Certificate,0,Tech,Product Manager
+MBA,Management,Marketing,6.2,"Data Analytics, JIRA",Google PM Certificate,0,FinTech,Product Manager
+B.Tech,Business Administration,Business Strategy,7.34,"Agile, Market Analysis",Product Management Certificate,4,Consulting,Product Manager
+MBA,Management,Business Strategy,7.95,"Data Analytics, JIRA",Google PM Certificate,5,FinTech,Product Manager
+MBA,Finance,Business Strategy,9.43,"Data Analytics, JIRA",Product Management Certificate,0,Startup,Product Manager
+B.Com,Accounting,Marketing,7.22,"Product Strategy, Roadmapping",Product Management Certificate,3,E-commerce,Product Manager
